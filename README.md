@@ -39,6 +39,12 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 ## Dev log (building in public)
 
 - [We are building this blog in public](https://blog.rezscore.com/dev/dev-building-the-blog-in-public/) &middot; [source](content/dev-building-the-blog-in-public.md)
+- [Free salary estimates, and a loop that makes them smarter](https://blog.rezscore.com/dev/dev-free-salary-estimates/) &middot; [source](content/dev-free-salary-estimates.md)
+- [Leaving Medium: git is our CMS now](https://blog.rezscore.com/dev/dev-leaving-medium/) &middot; [source](content/dev-leaving-medium.md)
+- [Target to a Job: watch your resume rebuild itself](https://blog.rezscore.com/dev/dev-target-to-a-job/) &middot; [source](content/dev-target-to-a-job.md)
+- [Going global: localizing for an international audience](https://blog.rezscore.com/dev/dev-going-global/) &middot; [source](content/dev-going-global.md)
+- [Meet Jen: building an AI career advisor with a real voice](https://blog.rezscore.com/dev/dev-meet-jen/) &middot; [source](content/dev-meet-jen.md)
+- [Rebuilding the resume grader to be transparent](https://blog.rezscore.com/dev/dev-rebuilding-the-resume-grader/) &middot; [source](content/dev-rebuilding-the-resume-grader.md)
 
 ---
 
