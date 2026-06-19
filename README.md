@@ -38,6 +38,8 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [A four-terminal day](https://blog.rezscore.com/dev/dev-a-four-terminal-day/) &middot; [source](content/dev-a-four-terminal-day.md)
+- [How we made our demo video (and let a script remake it)](https://blog.rezscore.com/dev/dev-the-demo-video/) &middot; [source](content/dev-the-demo-video.md)
 - [We are building this blog in public](https://blog.rezscore.com/dev/dev-building-the-blog-in-public/) &middot; [source](content/dev-building-the-blog-in-public.md)
 - [Free salary estimates, and a loop that makes them smarter](https://blog.rezscore.com/dev/dev-free-salary-estimates/) &middot; [source](content/dev-free-salary-estimates.md)
 - [Leaving Medium: git is our CMS now](https://blog.rezscore.com/dev/dev-leaving-medium/) &middot; [source](content/dev-leaving-medium.md)
