@@ -38,6 +38,9 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [How we deleted 784,000 rows from a live database without dropping a request](https://blog.rezscore.com/dev/dev-deleting-half-our-database-live/) &middot; [source](content/dev-deleting-half-our-database-live.md)
+- [The landing page that could not fail](https://blog.rezscore.com/dev/dev-the-landing-page-that-could-not-fail/) &middot; [source](content/dev-the-landing-page-that-could-not-fail.md)
+- [The loop that watched itself](https://blog.rezscore.com/dev/dev-the-loop-that-watched-itself/) &middot; [source](content/dev-the-loop-that-watched-itself.md)
 - [A four-terminal day](https://blog.rezscore.com/dev/dev-a-four-terminal-day/) &middot; [source](content/dev-a-four-terminal-day.md)
 - [How we made our demo video (and let a script remake it)](https://blog.rezscore.com/dev/dev-the-demo-video/) &middot; [source](content/dev-the-demo-video.md)
 - [We are building this blog in public](https://blog.rezscore.com/dev/dev-building-the-blog-in-public/) &middot; [source](content/dev-building-the-blog-in-public.md)
