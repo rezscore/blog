@@ -1,17 +1,18 @@
 ---
-title: "Top 100 Undergraduate Majors 2026"
+title: "Top 100 College Majors, Ranked for 2026"
 slug: top-100-undergraduate-majors-2026
 date: 2026-06-17
 author: "RezScore"
 tags: [college, majors, data]
-description: "We ranked the top undergraduate majors using 1.17 million real resumes. The headline isn't the ranking. It's that the share of Computer Science majors nearly tripled, then stopped cold."
+description: "We ranked the top college majors for 2026 using 1.17 million real resumes, with salary data, trends, and the full top 100 list."
 image: /static/blog/charts/top-majors-2026/trend_cs_boom.png
+medium_slug: top-100-undergraduate-majors-2019-c9cc32b02bfc
 widget: majors-2026
 featured: true
 draft: false
 ---
 
-*We ranked the top undergraduate majors using 1.17 million real resumes. The most interesting thing isn't the ranking. It's the trend underneath it.*
+*We ranked the top college majors for 2026 using 1.17 million real resumes. The most interesting thing isn't the ranking. It's the trend underneath it.*
 
 <div id="majors-scatter" class="majors-widget">
 <noscript><img src="/static/blog/charts/top-majors-2026/salary_vs_share.png" alt="Popularity versus pay scatter of undergraduate majors"></noscript>
@@ -37,7 +38,7 @@ And then it stopped. 2024 came in at 11.2%, dead flat against 2023. The boom did
 
 That's the story worth telling, and it's the kind of thing you only see when you have the raw data instead of a one-time survey.
 
-## The 2026 ranking
+## The 2026 college majors ranking
 
 Boom or not, Computer Science still sits comfortably at #1. Here's the full picture for the most popular majors this year.
 
@@ -50,9 +51,9 @@ The top three are steady: Computer Science, Business Administration, Mechanical 
 - **Business is flat, not falling.** The big business majors barely moved, which matches the national picture: business is still the largest field by a mile, but it stopped growing.
 - **Information Technology is the quiet earner.** It barely cracks the top five on popularity, but it maps to the highest-paying career track on the board.
 
-Curious how much has changed? You can compare this against our [Top 100 Undergraduate Majors for 2019](/top-100-undergraduate-majors-2019/), the same analysis run seven years ago, to see which majors held and which ones moved.
+Curious how much has changed? You can compare this against our [Top 100 College Majors in 2019 historical ranking](/top-100-undergraduate-majors-2019/), the same analysis run seven years ago, to see which majors held and which ones moved.
 
-## The full top 100
+## The full top 100 college majors
 
 You came here to find your major, so here are all 100. Popularity is the major's slice of the 1.17 million we counted. Salary is the median wage for the career that major most commonly leads to, from the U.S. Bureau of Labor Statistics. The trend arrow blends the direction in our own data with the national degree numbers from the Department of Education, so it reflects whether a field is genuinely growing or cooling, not just one year of noise.
 

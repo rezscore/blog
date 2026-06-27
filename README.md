@@ -5,7 +5,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 ## Posts
 
 - [About RezScore: How the Free Resume Grader Works](https://blog.rezscore.com/about-rezscore/) &middot; [source](content/about-rezscore.md)
-- [Top 100 Undergraduate Majors 2026](https://blog.rezscore.com/top-100-undergraduate-majors-2026/) &middot; [source](content/top-100-undergraduate-majors-2026.md)
+- [Top 100 College Majors, Ranked for 2026](https://blog.rezscore.com/top-100-undergraduate-majors-2026/) &middot; [source](content/top-100-undergraduate-majors-2026.md)
 - [Twin Bear Markets: Why Laid-Off Coders Are Quietly Looking at Crypto](https://blog.rezscore.com/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/) &middot; [source](content/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto.md)
 - [What Happened When 100 People Rewrote Their Resumes With AI](https://blog.rezscore.com/what-happened-when-100-people-rewrote-their-resumes-with-ai/) &middot; [source](content/what-happened-when-100-people-rewrote-their-resumes-with-ai.md)
 - [Why Your 2025 Resume Won't Cut It in 2026](https://blog.rezscore.com/why-your-2025-resume-is-obsolete/) &middot; [source](content/why-your-2025-resume-is-obsolete.md)
@@ -16,7 +16,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 - [Responsibilities vs. Achievements](https://blog.rezscore.com/responsibilities-vs-achievements/) &middot; [source](content/responsibilities-vs-achievements.md)
 - [The Red Balloon Holiday Special](https://blog.rezscore.com/red-balloon-holiday-special/) &middot; [source](content/red-balloon-holiday-special.md)
 - [Success Hack #7: Make Work the Epicenter of Your Social Life](https://blog.rezscore.com/success-hack-7-make-work-the-epicenter-of-your-social-life/) &middot; [source](content/success-hack-7-make-work-the-epicenter-of-your-social-life.md)
-- [Top 100 College Majors, Ranked (2019, Now Updated for 2026)](https://blog.rezscore.com/top-100-undergraduate-majors-2019/) &middot; [source](content/top-100-undergraduate-majors-2019.md)
+- [Top 100 College Majors in 2019 - Historical Ranking](https://blog.rezscore.com/top-100-undergraduate-majors-2019/) &middot; [source](content/top-100-undergraduate-majors-2019.md)
 - [Success Hack #6: Get a Free Lunch](https://blog.rezscore.com/success-hack-6-get-a-free-lunch/) &middot; [source](content/success-hack-6-get-a-free-lunch.md)
 - [Success Hack #5: First is Worst, Second is Best](https://blog.rezscore.com/success-hack-6-first-is-worst/) &middot; [source](content/success-hack-6-first-is-worst.md)
 - [Resume Roast: Business/Technology Masters Internship](https://blog.rezscore.com/resume-roast-international-business-student/) &middot; [source](content/resume-roast-international-business-student.md)
