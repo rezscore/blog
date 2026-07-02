@@ -38,6 +38,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [Guest post: the resume the grader could not see](https://blog.rezscore.com/dev/dev-the-resume-the-grader-could-not-see/) &middot; [source](content/dev-the-resume-the-grader-could-not-see.md)
 - [Building Proactive Job Search: From 43 Chat Messages to Real Matched Roles](https://blog.rezscore.com/dev/building-proactive-job-search/) &middot; [source](content/building-proactive-job-search.md)
 - [The feature that passed every test and still didn't work](https://blog.rezscore.com/dev/dev-the-feature-that-passed-every-test-and-still-didnt-work/) &middot; [source](content/dev-the-feature-that-passed-every-test-and-still-didnt-work.md)
 - [The 20-second page our tools said was fast](https://blog.rezscore.com/dev/dev-the-20-second-page-our-tools-said-was-fast/) &middot; [source](content/dev-the-20-second-page-our-tools-said-was-fast.md)
