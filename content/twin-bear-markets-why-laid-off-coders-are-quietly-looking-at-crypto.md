@@ -13,7 +13,23 @@ draft: false
 *Tech's job market and crypto's price chart are both in the dirt at the same time. That coincidence is doing something interesting to where talent goes.*
 
 
-I spent an evening at a crypto-and-AI meetup near the University of Washington recently, talking with computer science students. UW has one of the strongest CS programs in the country - Microsoft's backyard tends to do that - so this was a room full of people who, a few years ago, would have been fielding competing six-figure offers before graduation.
+I spent an evening at a crypto-and-AI meetup near the University of Washington recently, talking with computer science students. UW has one of the strongest CS programs in the country - Microsoft's backyard tends to do that - so this was a room full of people who, a few years ago, would have been fielding competing six-figure offers before graduation. The event was a MetaMask Dev Builders Night hosted by the [UW Blockchain Society](https://x.com/uw_blockchain), who put the whole evening together.
+
+<div class="rz-tweet-embed">
+  <a href="https://x.com/uw_blockchain/status/2062430089355432323" target="_blank" rel="noopener" class="rz-tweet-embed__link">
+    <div class="rz-tweet-embed__head">
+      <span class="rz-tweet-embed__name">UW Blockchain Society</span>
+      <span class="rz-tweet-embed__handle">@uw_blockchain</span>
+    </div>
+    <div class="rz-tweet-embed__text">
+      We had an amazing time at @MetaMaskDev Builders Night! Really cool seeing UW students learn directly from Seattle Web3 founders and crypto professionals with the downtown skyline behind us. Already excited for the next one!
+    </div>
+    <img src="/static/blog/images/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/uw-blockchain-builders-night.jpg" alt="UW Blockchain Society members and Seattle Web3 founders on a rooftop overlooking the downtown skyline at MetaMask Dev Builders Night" class="rz-tweet-embed__img">
+    <div class="rz-tweet-embed__foot">
+      View on 𝕏 &rarr;
+    </div>
+  </a>
+</div>
 
 The mood was not that. It was nuanced, and honestly more interesting for it. Some students were having a blast with the new AI coding tools and weren't sweating job prospects at all. Some were nervous. One told me he was leaning into the electrical-engineering side of his degree because he saw a boom coming in robotics. When I asked whether the doom-and-gloom headlines about CS being a dead-end major matched their reality, I got genuinely mixed answers about whether fewer people are even pursuing the field anymore.
 
