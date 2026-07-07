@@ -38,6 +38,8 @@ Exercise:
 
 - Delete anything marked (R)
 
+Not sure which of your bullets are which? Our [free resume grader](https://ai.rezscore.com/) will flag the weak ones for you.
+
 Further Reading:
 
 - Anatomy of an A+ Resume

@@ -14,3 +14,5 @@ draft: false
 Watch data specialist Severin Hatt walk MIT grad William Bellows through using Word2Vec to align a resume with a job description — a look under the hood at where data science meets the job hunt. (Shortly after this session, William landed a new role as Head of Client Engagement at Soroco.)
 
 Prefer to watch on YouTube? [Open the demo there](https://www.youtube.com/watch?v=VdR-CgeFMV8).
+
+Want your own resume aligned to a job description like William's was? Get a [resume score](https://ai.rezscore.com/) first to see where the gaps are.

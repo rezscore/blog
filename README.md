@@ -4,12 +4,15 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [Every Free Resume Grader Is a Funnel. Here Is What Each One Is Actually Best At (2026)](https://blog.rezscore.com/free-resume-graders-compared-2026/) &middot; [source](content/free-resume-graders-compared-2026.md)
+- [What Is a Good Resume Score? What the Data Says, and When to Stop Chasing 100](https://blog.rezscore.com/what-is-a-good-resume-score/) &middot; [source](content/what-is-a-good-resume-score.md)
+- [We Have Graded 13 Million Resumes. Here Is What Separates an A From an F.](https://blog.rezscore.com/what-separates-an-a-resume-from-an-f/) &middot; [source](content/what-separates-an-a-resume-from-an-f.md)
 - [About RezScore: How the Free Resume Grader Works](https://blog.rezscore.com/about-rezscore/) &middot; [source](content/about-rezscore.md)
 - [Top 100 College Majors, Ranked for 2026](https://blog.rezscore.com/top-100-undergraduate-majors-2026/) &middot; [source](content/top-100-undergraduate-majors-2026.md)
 - [Twin Bear Markets: Why Laid-Off Coders Are Quietly Looking at Crypto](https://blog.rezscore.com/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/) &middot; [source](content/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto.md)
 - [What Happened When 100 People Rewrote Their Resumes With AI](https://blog.rezscore.com/what-happened-when-100-people-rewrote-their-resumes-with-ai/) &middot; [source](content/what-happened-when-100-people-rewrote-their-resumes-with-ai.md)
 - [Why Your 2025 Resume Won't Cut It in 2026](https://blog.rezscore.com/why-your-2025-resume-is-obsolete/) &middot; [source](content/why-your-2025-resume-is-obsolete.md)
-- [The 2026 Job Market: What the Data Actually Shows](https://blog.rezscore.com/the-2026-job-market-what-the-data-actually-shows/) &middot; [source](content/the-2026-job-market-what-the-data-actually-shows.md)
+- [2026 Job Market Demand: The Skills That Pay, the Titles That Died, and What AI Actually Changed](https://blog.rezscore.com/the-2026-job-market-what-the-data-actually-shows/) &middot; [source](content/the-2026-job-market-what-the-data-actually-shows.md)
 - [The AI Revolution in Career Tech: Where We've Been, Where We're Going](https://blog.rezscore.com/the-ai-revolution-in-career-tech/) &middot; [source](content/the-ai-revolution-in-career-tech.md)
 - [Brevity Is Wit](https://blog.rezscore.com/brevity-is-wit/) &middot; [source](content/brevity-is-wit.md)
 - [Crafting a Professional Headline](https://blog.rezscore.com/crafting-a-professional-headline/) &middot; [source](content/crafting-a-professional-headline.md)
@@ -38,6 +41,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [Your resume gets two grades now](https://blog.rezscore.com/dev/dev-your-resume-gets-two-grades-now/) &middot; [source](content/dev-your-resume-gets-two-grades-now.md)
 - [Guest post: the resume the grader could not see](https://blog.rezscore.com/dev/dev-the-resume-the-grader-could-not-see/) &middot; [source](content/dev-the-resume-the-grader-could-not-see.md)
 - [Building Proactive Job Search: From 43 Chat Messages to Real Matched Roles](https://blog.rezscore.com/dev/building-proactive-job-search/) &middot; [source](content/building-proactive-job-search.md)
 - [The feature that passed every test and still didn't work](https://blog.rezscore.com/dev/dev-the-feature-that-passed-every-test-and-still-didnt-work/) &middot; [source](content/dev-the-feature-that-passed-every-test-and-still-didnt-work.md)

@@ -83,7 +83,7 @@ It also tracks with what the industry is actually talking about day to day. Of t
 
 ## So who's hiring, and what does it pay?
 
-This is the leg where I have to be careful, because the clean data is thinner. I'm not going to hand you a precise "number of open crypto jobs," because the figures I found for that didn't survive fact-checking, and the whole point of this exercise is to not make things up.
+This is the leg where I have to be careful, because the clean data is thinner. I'm not going to hand you a precise "number of open crypto jobs," because the figures I found for that didn't survive fact-checking, and the whole point of this exercise is to not make things up. What I can hand you is the running source we leaned on while writing this piece and should have cited from the start: [Leviathan News' Atlas hiring tracker](https://leviathan.news/atlas/hiring), a live view of which crypto teams are actually hiring right now. If you want the ground truth on open roles, start there.
 
 What *is* well-sourced is compensation by skill. As of mid-2026, aggregated job-listing data from [web3.career](https://web3.career/web3-salaries) puts average pay for specialized crypto-engineering skills like this:
 
@@ -125,7 +125,7 @@ The catch is that "repositioning" is a resume problem before it's a job-search p
 
 This is the part we can help with. RezScore grades your resume the way a hiring manager reads it, and our AI builder helps you *reframe* what you already have for the roles you're targeting - surfacing the security work, the systems experience, the protocol-adjacent projects that a recruiter at a crypto company is actually scanning for. Not inventing experience you don't have. Reframing the experience you do.
 
-If the twin bear markets have you reconsidering where your skills fit, that's exactly the moment to look at how your resume reads to someone on the other side of the table.
+If the twin bear markets have you reconsidering where your skills fit, that's exactly the moment to run your resume through a [free resume grader](https://ai.rezscore.com/) and see how it reads to someone on the other side of the table.
 
 **[Grade my resume →](https://ai.rezscore.com)**
 
@@ -145,3 +145,4 @@ If the twin bear markets have you reconsidering where your skills fit, that's ex
 - **Compensation by skill** - [web3.career](https://web3.career/)
 - **AI-generated code** - public statements by [Google](https://abc.xyz/) and [Microsoft](https://github.com/features/copilot)
 - **Industry sentiment & topic discovery** - [Leviathan News](https://leviathannews.xyz/) ([trending-topics data](https://api.leviathannews.xyz/api/v1/intel/trending/?hours=168&top_n=25))
+- **Live crypto hiring tracker** - [Leviathan News Atlas: Hiring](https://leviathan.news/atlas/hiring) (added in a post-publication update; we used it while researching and neglected to cite it in the first version)

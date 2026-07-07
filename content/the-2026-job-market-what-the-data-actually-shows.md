@@ -1,10 +1,10 @@
 ---
-title: "The 2026 Job Market: What the Data Actually Shows"
+title: "2026 Job Market Demand: The Skills That Pay, the Titles That Died, and What AI Actually Changed"
 slug: the-2026-job-market-what-the-data-actually-shows
 date: 2026-01-05
 author: "RezScore"
 tags: [job-market, data, ai]
-description: "We analyzed real job postings. The results contradict almost everything you've heard."
+description: "Real posting data on 2026 job market demand: why prompt engineer listings are scarce, which enterprise skills still pay, what actually died, and what AI changed."
 image: /static/blog/charts/07_ai_salaries.png
 medium_slug: the-2026-job-market-what-the-data-actually-shows-c074b96a8325
 draft: false
@@ -176,7 +176,7 @@ This isn't optional. 65% of job seekers are already using AI. If you're not, you
 
 ## Check Where You Stand
 
-Curious how your skills map to market demand?
+Curious how your skills map to market demand? Start with a quick [resume score](https://ai.rezscore.com/) to see where your baseline stands, then dig into the skill-level detail below.
 
 **[Try Skills Explorer →](https://ai.rezscore.com/skills)**
 

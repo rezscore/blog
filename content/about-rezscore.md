@@ -21,7 +21,7 @@ faqs:
 draft: false
 ---
 
-RezScore is a free, data-driven resume grader. Upload your resume and in seconds
+RezScore is a [free resume grader](https://ai.rezscore.com/), data-driven from the ground up. Upload your resume and in seconds
 you get an honest A to F grade, a breakdown of what is working and what is not,
 and a clear path to a stronger version.
 

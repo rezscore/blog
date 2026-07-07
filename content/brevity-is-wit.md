@@ -44,7 +44,7 @@ Half of resumes are between 386 and 896 words long, with a median word count of 
 
 The dropoff in the boxplots above is noticeable. Long resumes can still get high marks, but the black bar representing the absolute median score observably drops around the 800–900 word threshold. We therefore recommend in most cases you keep your resume under 800 words.
 
-The overall effect constitutes around 20% of the score (i.e. brevity alone can’t fix an otherwise horrible resume), but it can make a tangible difference.
+The overall effect constitutes around 20% of the score (i.e. brevity alone can’t fix an otherwise horrible resume), but it can make a tangible difference. Run yours through our [free resume grader](https://ai.rezscore.com/) if you want to see exactly where your word count is costing you.
 
 Armed with data on our side, let’s explore the psychological principles that could explain why brevity is so useful.
 

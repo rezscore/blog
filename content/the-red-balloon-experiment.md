@@ -38,4 +38,4 @@ For our early test we were able to help a small telecommunications company who n
 
 The Red Balloon approach has been so successful we are rolling it out to a wider community. The benefit for hirers is obvious, as it delivers better candidates quicker and cheaper. Best of all, if you don’t find a candidate, you don’t need to pay a bounty. Try it now and avoid the hiring headache.
 
-If you are a job seeker, this also bears fruit. There are many job boards, but RezScore Jobs is the only job board that will pay you just for using it! All successful bounties, subject to the discretion of RezScore and the hirer, is to pay the entire chain at a 50% reduction for each link in the chain.
+If you are a job seeker, this also bears fruit. There are many job boards, but RezScore Jobs is the only job board that will pay you just for using it! All successful bounties, subject to the discretion of RezScore and the hirer, is to pay the entire chain at a 50% reduction for each link in the chain. Before you enter the network, run your resume through our [free resume grader](https://ai.rezscore.com/) so you know it can hold up once the introductions start.

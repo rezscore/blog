@@ -150,7 +150,7 @@ Every week you wait:
 
 You can keep applying with what you have and wonder why you're not getting callbacks.
 
-Or you can fight back with data.
+Or you can fight back with data. Our [free resume grader](https://ai.rezscore.com/) checks your resume against the same signals AI screeners look for, in seconds.
 
 **[Re-grade your resume now →](https://ai.rezscore.com)**
 
