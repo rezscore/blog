@@ -4,7 +4,7 @@ slug: the-2026-job-market-what-the-data-actually-shows
 date: 2026-01-05
 author: "RezScore"
 tags: [job-market, data, ai]
-description: "Real posting data on 2026 job market demand: why prompt engineer listings are scarce, which enterprise skills still pay, what actually died, and what AI changed."
+description: "Real 2026 posting data: the software and AI skills that actually pay, which enterprise tech still hires, what actually died (and what didn't), and how AI changed resume screening."
 image: /static/blog/charts/07_ai_salaries.png
 medium_slug: the-2026-job-market-what-the-data-actually-shows-c074b96a8325
 draft: false

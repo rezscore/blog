@@ -57,6 +57,9 @@ black boxes. Ours is the opposite: every grade is explainable, every suggestion
 is specific, and the whole first pass is free. Over 13 million resumes have been
 analyzed.
 
+Looking for RezScore Pro? Start with the free grade, then [RezScore Pro](https://ai.rezscore.com/pro/)
+unlocks the resume builder with unlimited polished exports.
+
 Curious how we built the two-grade card, including how we kept it fast? We
 wrote up the [engineering story on the dev blog](https://blog.rezscore.com/dev/dev-your-resume-gets-two-grades-now/).
 

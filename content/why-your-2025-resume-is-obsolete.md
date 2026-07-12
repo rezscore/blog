@@ -1,10 +1,10 @@
 ---
-title: "Why Your 2025 Resume Won't Cut It in 2026"
+title: "Are Resumes Outdated? Why Your 2025 Resume Won't Cut It in 2026"
 slug: why-your-2025-resume-is-obsolete
 date: 2026-01-06
 author: "RezScore"
 tags: [resume, ai, job-search]
-description: "The hiring stack changed. Your resume probably didn't."
+description: "Resumes are not dead, but the 2025 playbook is. AI screening changed the hiring stack; here is what to update first in 2026."
 image: /static/blog/charts/03_screening_funnel.png
 medium_slug: why-your-2025-resume-is-obsolete-d08e229aadd5
 draft: false

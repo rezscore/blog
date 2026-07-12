@@ -11,10 +11,10 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 - [Top 100 College Majors, Ranked for 2026](https://blog.rezscore.com/top-100-undergraduate-majors-2026/) &middot; [source](content/top-100-undergraduate-majors-2026.md)
 - [Twin Bear Markets: Why Laid-Off Coders Are Quietly Looking at Crypto](https://blog.rezscore.com/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/) &middot; [source](content/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto.md)
 - [What Happened When 100 People Rewrote Their Resumes With AI](https://blog.rezscore.com/what-happened-when-100-people-rewrote-their-resumes-with-ai/) &middot; [source](content/what-happened-when-100-people-rewrote-their-resumes-with-ai.md)
-- [Why Your 2025 Resume Won't Cut It in 2026](https://blog.rezscore.com/why-your-2025-resume-is-obsolete/) &middot; [source](content/why-your-2025-resume-is-obsolete.md)
+- [Are Resumes Outdated? Why Your 2025 Resume Won't Cut It in 2026](https://blog.rezscore.com/why-your-2025-resume-is-obsolete/) &middot; [source](content/why-your-2025-resume-is-obsolete.md)
 - [2026 Job Market Demand: The Skills That Pay, the Titles That Died, and What AI Actually Changed](https://blog.rezscore.com/the-2026-job-market-what-the-data-actually-shows/) &middot; [source](content/the-2026-job-market-what-the-data-actually-shows.md)
 - [The AI Revolution in Career Tech: Where We've Been, Where We're Going](https://blog.rezscore.com/the-ai-revolution-in-career-tech/) &middot; [source](content/the-ai-revolution-in-career-tech.md)
-- [Brevity Is Wit](https://blog.rezscore.com/brevity-is-wit/) &middot; [source](content/brevity-is-wit.md)
+- [Brevity Is Wit: Why Shorter Resumes Score Higher](https://blog.rezscore.com/brevity-is-wit/) &middot; [source](content/brevity-is-wit.md)
 - [Crafting a Professional Headline](https://blog.rezscore.com/crafting-a-professional-headline/) &middot; [source](content/crafting-a-professional-headline.md)
 - [Responsibilities vs. Achievements](https://blog.rezscore.com/responsibilities-vs-achievements/) &middot; [source](content/responsibilities-vs-achievements.md)
 - [The Red Balloon Holiday Special](https://blog.rezscore.com/red-balloon-holiday-special/) &middot; [source](content/red-balloon-holiday-special.md)
@@ -41,6 +41,8 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [How We Stop Our AI Writers From Making Up Statistics](https://blog.rezscore.com/dev/dev-ai-writers-number-whitelist/) &middot; [source](content/dev-ai-writers-number-whitelist.md)
+- [The Day Google Served Celebrity Gossip on Our Subdomain](https://blog.rezscore.com/dev/dev-celebrity-gossip-on-our-subdomain/) &middot; [source](content/dev-celebrity-gossip-on-our-subdomain.md)
 - [Your resume gets two grades now](https://blog.rezscore.com/dev/dev-your-resume-gets-two-grades-now/) &middot; [source](content/dev-your-resume-gets-two-grades-now.md)
 - [Guest post: the resume the grader could not see](https://blog.rezscore.com/dev/dev-the-resume-the-grader-could-not-see/) &middot; [source](content/dev-the-resume-the-grader-could-not-see.md)
 - [Building Proactive Job Search: From 43 Chat Messages to Real Matched Roles](https://blog.rezscore.com/dev/building-proactive-job-search/) &middot; [source](content/building-proactive-job-search.md)

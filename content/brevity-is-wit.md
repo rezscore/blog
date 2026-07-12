@@ -1,10 +1,10 @@
 ---
-title: "Brevity Is Wit"
+title: "Brevity Is Wit: Why Shorter Resumes Score Higher"
 slug: brevity-is-wit
 date: 2019-12-31
 author: "RezScore"
 tags: [resume, writing]
-description: "Why shorter resumes win."
+description: "Our data agrees with Shakespeare: across more than 70,000 graded resumes, A resumes are shorter than C resumes. Why brevity wins on a resume, and what to cut first."
 image: /static/blog/images/brevity-is-wit/0_Eae_rGD3FsjPEOFP.jpg
 medium_slug: brevity-is-wit-8f93d611af31
 draft: false
