@@ -41,6 +41,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [1,253 Green Tests and Four Production Failures](https://blog.rezscore.com/dev/dev-1253-green-tests-four-production-failures/) &middot; [source](content/dev-1253-green-tests-four-production-failures.md)
 - [How We Stop Our AI Writers From Making Up Statistics](https://blog.rezscore.com/dev/dev-ai-writers-number-whitelist/) &middot; [source](content/dev-ai-writers-number-whitelist.md)
 - [The Day Google Served Celebrity Gossip on Our Subdomain](https://blog.rezscore.com/dev/dev-celebrity-gossip-on-our-subdomain/) &middot; [source](content/dev-celebrity-gossip-on-our-subdomain.md)
 - [Your resume gets two grades now](https://blog.rezscore.com/dev/dev-your-resume-gets-two-grades-now/) &middot; [source](content/dev-your-resume-gets-two-grades-now.md)
