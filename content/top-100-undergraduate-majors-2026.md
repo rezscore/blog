@@ -191,6 +191,8 @@ That's the part we can help with.
 
 **[Grade your resume free](https://ai.rezscore.com/)**
 
+Before you pick a scoring tool, see [how six free resume checkers and graders compare](/free-resume-graders-compared-2026/).
+
 Upload it, and in about ten seconds we'll show you where it's strong, where it's vague, and what a recruiter sees first. Computer Science or Comparative Literature, the resume is what gets read.
 
 ---

@@ -57,6 +57,8 @@ black boxes. Ours is the opposite: every grade is explainable, every suggestion
 is specific, and the whole first pass is free. Over 13 million resumes have been
 analyzed.
 
+We also [compared RezScore honestly with five other free resume checkers and graders](/free-resume-graders-compared-2026/), including where each competitor is stronger.
+
 Looking for RezScore Pro? Start with the free grade, then [RezScore Pro](https://ai.rezscore.com/pro/)
 unlocks the resume builder with unlimited polished exports.
 

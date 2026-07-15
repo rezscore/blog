@@ -1,10 +1,10 @@
 ---
-title: "Every Free Resume Grader Is a Funnel. Here Is What Each One Is Actually Best At (2026)"
+title: "Free Resume Checkers and Graders Compared (2026): What Each Tool Is Actually Best At"
 slug: free-resume-graders-compared-2026
 date: 2026-07-06
 author: "RezScore"
 tags: [resume, tools, comparison]
-description: "A plain accounting of six free resume grading tools, including our own: what the free tier actually gives you, what it costs when the funnel closes, and what each one genuinely does best."
+description: "An honest resume checker and resume grader comparison: what six free tools actually do best, what each free tier includes, and where the paywall starts."
 draft: false
 ---
 

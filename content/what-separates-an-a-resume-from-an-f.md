@@ -52,6 +52,8 @@ Same job. One version is a duty. The other is a result someone can hold you to. 
 
 If you want the fuller breakdown of what a top-scoring resume looks like structurally, we covered that in [Anatomy of an A+ Resume](/anatomy-of-an-a-resume/), and the responsibilities-versus-results distinction gets a full treatment in [Responsibilities vs. Achievements](/responsibilities-vs-achievements/).
 
+For a practical look at which tools reward that evidence, see [our comparison of six free resume checkers and graders](/free-resume-graders-compared-2026/).
+
 ## The length surprise
 
 Here is the finding that did not match our prior going in. We measured average word count by grade, again restricted to resumes with extractable text.

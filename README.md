@@ -4,7 +4,9 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
-- [Every Free Resume Grader Is a Funnel. Here Is What Each One Is Actually Best At (2026)](https://blog.rezscore.com/free-resume-graders-compared-2026/) &middot; [source](content/free-resume-graders-compared-2026.md)
+- [How Career Programs Can Actually Measure Resume Improvement](https://blog.rezscore.com/measuring-resume-improvement-career-programs/) &middot; [source](content/measuring-resume-improvement-career-programs.md)
+- [Why AI Resume Builders Make Things Up (and How to Fix Your Resume Without Lying)](https://blog.rezscore.com/why-ai-resume-builders-make-things-up/) &middot; [source](content/why-ai-resume-builders-make-things-up.md)
+- [Free Resume Checkers and Graders Compared (2026): What Each Tool Is Actually Best At](https://blog.rezscore.com/free-resume-graders-compared-2026/) &middot; [source](content/free-resume-graders-compared-2026.md)
 - [What Is a Good Resume Score? What the Data Says, and When to Stop Chasing 100](https://blog.rezscore.com/what-is-a-good-resume-score/) &middot; [source](content/what-is-a-good-resume-score.md)
 - [We Have Graded 13 Million Resumes. Here Is What Separates an A From an F.](https://blog.rezscore.com/what-separates-an-a-resume-from-an-f/) &middot; [source](content/what-separates-an-a-resume-from-an-f.md)
 - [About RezScore: How the Free Resume Grader Works](https://blog.rezscore.com/about-rezscore/) &middot; [source](content/about-rezscore.md)

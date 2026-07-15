@@ -20,6 +20,8 @@ The second is a quality grade: how well the document itself is written and struc
 
 The same resume can legitimately score a 90 as an ATS match for one role, a 60 for another, and a C as an overall quality grade, all at the same time, and none of those numbers is wrong. They are just answers to different questions. Before you can decide whether a score is good, you have to know which of these two questions it is answering.
 
+If you want to see how those tradeoffs show up in real products, [our comparison of six free resume checkers and graders](/free-resume-graders-compared-2026/) explains which question each tool is built to answer.
+
 ## What a good score looks like on RezScore
 
 RezScore uses letter grades rather than a 0-100 number, for a specific reason: a letter grade with a published distribution behind it is interpretable in a way a bare number is not. "78/100" tells you nothing about where you stand unless you know the distribution of everyone else's scores. A letter grade with a known distribution tells you exactly that.
