@@ -4,6 +4,9 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [How to Quantify Your Resume When You Don't Have Numbers](https://blog.rezscore.com/how-to-quantify-your-resume-without-numbers/) &middot; [source](content/how-to-quantify-your-resume-without-numbers.md)
+- [You Got Your Resume Grade. Now What?](https://blog.rezscore.com/what-to-do-after-your-resume-grade/) &middot; [source](content/what-to-do-after-your-resume-grade.md)
+- [Why Your Job Applications Get No Response (and What a Resume Can Actually Fix)](https://blog.rezscore.com/why-your-job-applications-get-no-response/) &middot; [source](content/why-your-job-applications-get-no-response.md)
 - [How Career Programs Can Actually Measure Resume Improvement](https://blog.rezscore.com/measuring-resume-improvement-career-programs/) &middot; [source](content/measuring-resume-improvement-career-programs.md)
 - [Why AI Resume Builders Make Things Up (and How to Fix Your Resume Without Lying)](https://blog.rezscore.com/why-ai-resume-builders-make-things-up/) &middot; [source](content/why-ai-resume-builders-make-things-up.md)
 - [Free Resume Checkers and Graders Compared (2026): What Each Tool Is Actually Best At](https://blog.rezscore.com/free-resume-graders-compared-2026/) &middot; [source](content/free-resume-graders-compared-2026.md)
