@@ -1,5 +1,5 @@
 ---
-title: "2026 Job Market Demand: The Skills That Pay, the Titles That Died, and What AI Actually Changed"
+title: "2026 Job Market: Skills, Titles, and AI"
 slug: the-2026-job-market-what-the-data-actually-shows
 date: 2026-01-05
 author: "RezScore"

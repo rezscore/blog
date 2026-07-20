@@ -17,7 +17,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 - [Twin Bear Markets: Why Laid-Off Coders Are Quietly Looking at Crypto](https://blog.rezscore.com/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/) &middot; [source](content/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto.md)
 - [What Happened When 100 People Rewrote Their Resumes With AI](https://blog.rezscore.com/what-happened-when-100-people-rewrote-their-resumes-with-ai/) &middot; [source](content/what-happened-when-100-people-rewrote-their-resumes-with-ai.md)
 - [Are Resumes Outdated? Why Your 2025 Resume Won't Cut It in 2026](https://blog.rezscore.com/why-your-2025-resume-is-obsolete/) &middot; [source](content/why-your-2025-resume-is-obsolete.md)
-- [2026 Job Market Demand: The Skills That Pay, the Titles That Died, and What AI Actually Changed](https://blog.rezscore.com/the-2026-job-market-what-the-data-actually-shows/) &middot; [source](content/the-2026-job-market-what-the-data-actually-shows.md)
+- [2026 Job Market: Skills, Titles, and AI](https://blog.rezscore.com/the-2026-job-market-what-the-data-actually-shows/) &middot; [source](content/the-2026-job-market-what-the-data-actually-shows.md)
 - [The AI Revolution in Career Tech: Where We've Been, Where We're Going](https://blog.rezscore.com/the-ai-revolution-in-career-tech/) &middot; [source](content/the-ai-revolution-in-career-tech.md)
 - [Brevity Is Wit: Why Shorter Resumes Score Higher](https://blog.rezscore.com/brevity-is-wit/) &middot; [source](content/brevity-is-wit.md)
 - [Crafting a Professional Headline](https://blog.rezscore.com/crafting-a-professional-headline/) &middot; [source](content/crafting-a-professional-headline.md)
@@ -46,6 +46,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [Two Ways Our Instrumentation Lied to Us](https://blog.rezscore.com/dev/dev-two-ways-our-instrumentation-lied/) &middot; [source](content/dev-two-ways-our-instrumentation-lied.md)
 - [Preview Is a Database Constraint, Not a Modal](https://blog.rezscore.com/dev/dev-preview-is-a-database-constraint-not-a-modal/) &middot; [source](content/dev-preview-is-a-database-constraint-not-a-modal.md)
 - [1,253 Green Tests and Four Production Failures](https://blog.rezscore.com/dev/dev-1253-green-tests-four-production-failures/) &middot; [source](content/dev-1253-green-tests-four-production-failures.md)
 - [How We Stop Our AI Writers From Making Up Statistics](https://blog.rezscore.com/dev/dev-ai-writers-number-whitelist/) &middot; [source](content/dev-ai-writers-number-whitelist.md)
