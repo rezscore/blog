@@ -2,6 +2,7 @@
 title: "2026 Job Market: Skills, Titles, and AI"
 slug: the-2026-job-market-what-the-data-actually-shows
 date: 2026-01-05
+updated: 2026-07-19
 author: "RezScore"
 tags: [job-market, data, ai]
 description: "Real 2026 posting data: the software and AI skills that actually pay, which enterprise tech still hires, what actually died (and what didn't), and how AI changed resume screening."

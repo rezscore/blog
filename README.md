@@ -46,6 +46,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [Your funnel is lying](https://blog.rezscore.com/dev/dev-your-funnel-is-lying/) &middot; [source](content/dev-your-funnel-is-lying.md)
 - [Two Ways Our Instrumentation Lied to Us](https://blog.rezscore.com/dev/dev-two-ways-our-instrumentation-lied/) &middot; [source](content/dev-two-ways-our-instrumentation-lied.md)
 - [Preview Is a Database Constraint, Not a Modal](https://blog.rezscore.com/dev/dev-preview-is-a-database-constraint-not-a-modal/) &middot; [source](content/dev-preview-is-a-database-constraint-not-a-modal.md)
 - [1,253 Green Tests and Four Production Failures](https://blog.rezscore.com/dev/dev-1253-green-tests-four-production-failures/) &middot; [source](content/dev-1253-green-tests-four-production-failures.md)
