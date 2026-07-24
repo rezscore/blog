@@ -4,6 +4,9 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [College Majors and Careers: What Jobs Fit Your Major?](https://blog.rezscore.com/college-majors-and-careers/) &middot; [source](content/college-majors-and-careers.md)
+- [Prompt Engineering Jobs in 2026: Skill Yes, Title No](https://blog.rezscore.com/prompt-engineering-jobs-2026/) &middot; [source](content/prompt-engineering-jobs-2026.md)
+- [Software Engineering Job Market 2026: What the Data Says](https://blog.rezscore.com/software-engineering-job-market-2026/) &middot; [source](content/software-engineering-job-market-2026.md)
 - [How to Quantify Your Resume When You Don't Have Numbers](https://blog.rezscore.com/how-to-quantify-your-resume-without-numbers/) &middot; [source](content/how-to-quantify-your-resume-without-numbers.md)
 - [You Got Your Resume Grade. Now What?](https://blog.rezscore.com/what-to-do-after-your-resume-grade/) &middot; [source](content/what-to-do-after-your-resume-grade.md)
 - [Why Your Job Applications Get No Response (and What a Resume Can Actually Fix)](https://blog.rezscore.com/why-your-job-applications-get-no-response/) &middot; [source](content/why-your-job-applications-get-no-response.md)

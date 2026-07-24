@@ -2,9 +2,14 @@
 title: "Free Resume Checkers and Graders Compared (2026): What Each Tool Is Actually Best At"
 slug: free-resume-graders-compared-2026
 date: 2026-07-06
+updated: 2026-07-23
 author: "RezScore"
 tags: [resume, tools, comparison]
 description: "An honest resume checker and resume grader comparison: what six free tools actually do best, what each free tier includes, and where the paywall starts."
+image: /static/blog/images/free-resume-graders-compared-2026/social-card-v2.png
+image_alt: "Resume checker comparison illustrated with evaluation cards and a resume document"
+image_width: 1200
+image_height: 630
 draft: false
 ---
 

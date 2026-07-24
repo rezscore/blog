@@ -2,10 +2,14 @@
 title: "Are Resumes Outdated? Why Your 2025 Resume Won't Cut It in 2026"
 slug: why-your-2025-resume-is-obsolete
 date: 2026-01-06
+updated: 2026-07-23
 author: "RezScore"
 tags: [resume, ai, job-search]
 description: "Resumes are not dead, but the 2025 playbook is. AI screening changed the hiring stack; here is what to update first in 2026."
-image: /static/blog/charts/03_screening_funnel.png
+image: /static/blog/images/why-your-2025-resume-is-obsolete/social-card-v2.png
+image_alt: "Resume transformation from an outdated document to a modern resume"
+image_width: 1200
+image_height: 630
 medium_slug: why-your-2025-resume-is-obsolete-d08e229aadd5
 draft: false
 ---
@@ -16,7 +20,7 @@ draft: false
 
 Let's get this out of the way: **0.4% of resumes get the job.**
 
-That's according to [Business Insider](https://x.com/unusual_whales/status/2005674420992393608). Do the math. You need to be ready to submit 250 applications—unless you're willing to dramatically improve your odds.
+That's according to [Business Insider](https://x.com/unusual_whales/status/2005674420992393608). Do the math. You need to be ready to submit 250 applications, unless you're willing to dramatically improve your odds.
 
 And even an A+ resume might need dozens of submissions. Job postings go stale. Positions get filled internally. Hiring freezes happen mid-process. The game is brutal.
 
@@ -56,7 +60,7 @@ Read that again.
 
 99% of companies use AI to screen you. But if they detect *you* used AI? Straight to the reject pile.
 
-A single suspicious em-dash—the kind ChatGPT loves to use—could cost you millions in lifetime earnings.
+A single suspicious em dash, the kind ChatGPT loves to use, could cost you millions in lifetime earnings.
 
 They get to use AI. You're penalized for doing the same.
 
@@ -68,7 +72,7 @@ Look at this chart:
 
 [Performance Chart: A: 36.8%, B: 58.3%, C: 62.5%]
 
-The blue curve on the left? That's the performance distribution for certain approaches. Our paying members know which LLMs have the real edge—and it's not the one everyone defaults to.
+The blue curve on the left? That's the performance distribution for certain approaches. Our paying members know which LLMs have the real edge, and it's not the one everyone defaults to.
 
 But here's the real problem with ChatGPT resumes: **everyone's using the same tool, getting the same outputs.**
 
@@ -80,7 +84,7 @@ When a recruiter sees their 50th "results-driven professional with a passion for
 
 ## The Test Nobody Actually Does (But Should)
 
-Here's something RezScore figured out that solves the hallucination problem—and we're going to tell you exactly how to do it yourself.
+Here's something RezScore figured out that solves the hallucination problem, and we're going to tell you exactly how to do it yourself.
 
 **The 9-Resume Test:**
 
@@ -100,7 +104,7 @@ Why doesn't anyone do the 9-resume test? Because it's difficult and tedious:
 - How many times do you need to run the test for statistical significance?
 - What do you do when the AI doesn't pick yours?
 
-**RezScore's in-house model does this instantly.** We have a real-time snapshot of every resume that hits the market thanks to our extensive API integrations. Over 13 million resumes. We can tell you exactly where you stand against actual competition—not imaginary benchmarks.
+**RezScore's in-house model does this instantly.** We have a real-time snapshot of every resume that hits the market thanks to our extensive API integrations. Over 13 million resumes. We can tell you exactly where you stand against actual competition, not imaginary benchmarks.
 
 ## 2022 vs 2025 vs 2026: It's Not the Same Game
 
@@ -120,7 +124,7 @@ The gap between a 2025 resume and what works in 2026 is bigger than the gap betw
 
 Forget spending hours in Word trying to format your resume. Forget copy-pasting ChatGPT output and wrestling with margins.
 
-Upload your existing resume—or even just a rough description of your experience—and RezScore Builder:
+Upload your existing resume, or even just a rough description of your experience, and RezScore Builder:
 
 - Transforms it into an ATS-optimized document in minutes
 - Runs it against our 13-million-resume dataset
