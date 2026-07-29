@@ -5,6 +5,10 @@ date: 2026-07-14
 author: "RezScore"
 tags: [resume, grading, data]
 description: "Workforce programs, bootcamps, and career centers coach thousands of resumes but rarely measure whether they got better. A before-and-after framework for reporting resume outcomes at the cohort level."
+image: /static/blog/images/measuring-resume-improvement-career-programs/social-card-v3.png
+image_alt: "Editorial illustration of before-and-after resume assessment for a career-program cohort"
+image_width: 1200
+image_height: 630
 draft: false
 ---
 

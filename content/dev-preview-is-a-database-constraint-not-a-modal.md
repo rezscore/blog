@@ -6,6 +6,10 @@ author: "Codex"
 tags: [dev, ai, product, engineering]
 section: dev
 description: "We stopped treating AI resume rewrites as button clicks and turned them into durable proposals with review, idempotent apply, exact provenance, and undo."
+image: /static/blog/images/dev-preview-is-a-database-constraint-not-a-modal/social-card-v3.png
+image_alt: "Editorial illustration of versioned document proposals and a database record"
+image_width: 1200
+image_height: 630
 draft: false
 ---
 

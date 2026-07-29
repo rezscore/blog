@@ -6,7 +6,7 @@ updated: 2026-07-23
 author: "RezScore"
 tags: [job-market, data, ai]
 description: "Real 2026 posting data: the software and AI skills that actually pay, which enterprise tech still hires, what actually died (and what didn't), and how AI changed resume screening."
-image: /static/blog/images/the-2026-job-market-what-the-data-actually-shows/social-card-v2.png
+image: /static/blog/images/the-2026-job-market-what-the-data-actually-shows/social-card-v3.png
 image_alt: "2026 job market guide illustrated with career paths, a resume, and emerging skills"
 image_width: 1200
 image_height: 630

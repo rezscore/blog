@@ -5,6 +5,10 @@ date: 2026-07-16
 author: "RezScore"
 tags: [job-search, strategy]
 description: "Dozens of applications, months of silence. An honest accounting of what is actually happening to your applications in 2026, which parts a resume can fix, and which parts it cannot."
+image: /static/blog/images/why-your-job-applications-get-no-response/social-card-v3.png
+image_alt: "Editorial illustration of job applications passing through screening gates toward a targeted role"
+image_width: 1200
+image_height: 630
 draft: false
 ---
 

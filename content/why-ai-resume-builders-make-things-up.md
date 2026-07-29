@@ -5,6 +5,10 @@ date: 2026-07-14
 author: "RezScore"
 tags: [ai, resume, writing]
 description: "AI resume tools invent metrics, titles, and achievements because plausible beats true. Here is why it happens, what a fabricated bullet costs you, and the evidence-first method that improves a resume without fabricating it."
+image: /static/blog/images/why-ai-resume-builders-make-things-up/social-card-v3.png
+image_alt: "Editorial illustration of a resume being checked against real evidence"
+image_width: 1200
+image_height: 630
 draft: false
 ---
 

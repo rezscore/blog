@@ -5,7 +5,7 @@ date: 2026-07-23
 author: "RezScore"
 tags: [job-market, ai, prompt-engineering, careers, data]
 description: "Prompt engineering pays well but rarely appears as a job title. What January 2026 posting data and the July 2026 AI math results mean for your career."
-image: /static/blog/images/prompt-engineering-jobs-2026/social-card-v2.png
+image: /static/blog/images/prompt-engineering-jobs-2026/social-card-v3.png
 image_alt: "Editorial illustration of verified AI-assisted problem solving with paths converging on a checked result"
 image_width: 1200
 image_height: 630

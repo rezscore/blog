@@ -5,6 +5,10 @@ date: 2026-07-16
 author: "RezScore"
 tags: [resume, writing]
 description: "Every resume guide says quantify your achievements. Nobody explains what to do when your work never came with a dashboard. Here is the honest method: mine, estimate defensibly, or be specific in a different direction."
+image: /static/blog/images/how-to-quantify-your-resume-without-numbers/social-card-v3.png
+image_alt: "Editorial illustration of checking a resume for specific, defensible evidence"
+image_width: 1200
+image_height: 630
 draft: false
 ---
 

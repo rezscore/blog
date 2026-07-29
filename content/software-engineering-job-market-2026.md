@@ -5,7 +5,7 @@ date: 2026-07-23
 author: "RezScore"
 tags: [job-market, software-engineering, ai, careers, data]
 description: "Is software engineering still worth it in 2026? What January 2026 posting data shows about AI, enterprise skills, remote roles, and entry-level hiring."
-image: /static/blog/images/software-engineering-job-market-2026/social-card-v2.png
+image: /static/blog/images/software-engineering-job-market-2026/social-card-v3.png
 image_alt: "Editorial illustration of an engineer walking through a narrow gateway into a complex software landscape"
 image_width: 1200
 image_height: 630

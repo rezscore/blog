@@ -6,7 +6,7 @@ updated: 2026-07-23
 author: "RezScore"
 tags: [data, resumes, grading]
 description: "RezScore has graded more than 13 million resumes. We analyzed the newest 70,000+ of them: the distribution, the quantification gradient, and a counterintuitive finding about length."
-image: /static/blog/images/what-separates-an-a-resume-from-an-f/social-card-v2.png
+image: /static/blog/images/what-separates-an-a-resume-from-an-f/social-card-v3.png
 image_alt: "Resume quality analysis illustrated by a progression from rough to evidence-forward resumes"
 image_width: 1200
 image_height: 630

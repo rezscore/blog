@@ -5,6 +5,10 @@ date: 2026-07-16
 author: "RezScore"
 tags: [resume, grading]
 description: "The most common question after a resume grade is not about the grade. It is: what do I actually do next? Here is the exact order of operations, from evidence bullets to job targeting to the re-grade."
+image: /static/blog/images/what-to-do-after-your-resume-grade/social-card-v3.png
+image_alt: "Editorial illustration of a resume grade leading through evidence-first improvement steps"
+image_width: 1200
+image_height: 630
 draft: false
 ---
 

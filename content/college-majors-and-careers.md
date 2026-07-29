@@ -2,10 +2,11 @@
 title: "College Majors and Careers: What Jobs Fit Your Major?"
 slug: college-majors-and-careers
 date: 2026-07-23
+updated: 2026-07-28
 author: "RezScore"
 tags: [college-majors, careers, education, data, early-career]
 description: "A major opens a set of career paths, not one job. How 15 major families map to real careers, what employers check, and how to build resume evidence."
-image: /static/blog/images/college-majors-and-careers/social-card-v2.png
+image: /static/blog/images/college-majors-and-careers/social-card-v3.png
 image_alt: "Editorial illustration of a student choosing among branching career paths"
 image_width: 1200
 image_height: 630
@@ -36,63 +37,123 @@ For each family below: common careers, transferable skills, paths that need more
 
 ### Business
 
-**Common careers:** financial analysis, accounting, marketing, sales, operations, human resources, supply chain, general management tracks. **Transferable skills:** financial literacy, spreadsheets and reporting, project coordination, communication with stakeholders. **May need more school:** CPA licensure for public accounting (exam plus credit-hour requirements), MBA for some management and finance tracks. **Misconception to avoid:** that "business" means managing people on day one; early roles are analytical and operational. **Resume evidence:** an internship with a measurable contribution, a case competition result, or a spreadsheet model or process improvement with numbers attached.
+- **Common careers:** financial analysis, accounting, marketing, sales, operations, human resources, supply chain, general management tracks.
+- **Transferable skills:** financial literacy, spreadsheets and reporting, project coordination, communication with stakeholders.
+- **May need more school:** CPA licensure for public accounting (exam plus credit-hour requirements), MBA for some management and finance tracks.
+- **Misconception to avoid:** that "business" means managing people on day one; early roles are analytical and operational.
+- **Resume evidence:** an internship with a measurable contribution, a case competition result, or a spreadsheet model or process improvement with numbers attached.
 
 ### Engineering
 
-**Common careers:** design, test, manufacturing, and process engineering across civil, mechanical, electrical, chemical, and related specialties; project engineering; technical sales. **Transferable skills:** quantitative modeling, CAD and simulation tools, structured problem solving, documentation. **May need more school:** the Professional Engineer license (required to sign off on many civil and public-facing projects) requires an exam sequence and supervised experience; research roles often want graduate degrees. **Misconception to avoid:** that all engineering majors compete for the same jobs; specialties have distinct markets. **Resume evidence:** capstone or design-team projects with specifications met, internship deliverables, and any hands-on build with measurable performance.
+- **Common careers:** design, test, manufacturing, and process engineering across civil, mechanical, electrical, chemical, and related specialties; project engineering; technical sales.
+- **Transferable skills:** quantitative modeling, CAD and simulation tools, structured problem solving, documentation.
+- **May need more school:** the Professional Engineer license (required to sign off on many civil and public-facing projects) requires an exam sequence and supervised experience; research roles often want graduate degrees.
+- **Misconception to avoid:** that all engineering majors compete for the same jobs; specialties have distinct markets.
+- **Resume evidence:** capstone or design-team projects with specifications met, internship deliverables, and any hands-on build with measurable performance.
 
 ### Computer and information technology
 
-**Common careers:** software engineering, IT support and administration, data engineering, quality assurance, cybersecurity, product-adjacent technical roles. **Transferable skills:** programming, debugging, systems thinking, version control, working with data. **May need more school:** usually none for industry; research scientist roles typically want a PhD. **Misconception to avoid:** that the degree alone lands the job; recent computer science graduates showed about 7 percent unemployment in the New York Fed's 2024 data, though employed graduates had a substantially lower underemployment rate than recent graduates overall (19.1 percent versus 39.4 percent). **Resume evidence:** shipped projects with real users, internships, open-source contributions, and outcomes with numbers. Our [Skills Explorer](https://ai.rezscore.com/skills/) shows how to present specific technical skills.
+- **Common careers:** software engineering, IT support and administration, data engineering, quality assurance, cybersecurity, product-adjacent technical roles.
+- **Transferable skills:** programming, debugging, systems thinking, version control, working with data.
+- **May need more school:** usually none for industry; research scientist roles typically want a PhD.
+- **Misconception to avoid:** that the degree alone lands the job; recent computer science graduates showed about 7 percent unemployment in the New York Fed's 2024 data, though employed graduates had a substantially lower underemployment rate than recent graduates overall (19.1 percent versus 39.4 percent).
+- **Resume evidence:** shipped projects with real users, internships, open-source contributions, and outcomes with numbers. Our [Skills Explorer](https://ai.rezscore.com/skills/) shows how to present specific technical skills.
 
 ### Biology and life sciences
 
-**Common careers:** laboratory technician, research assistant, quality control in pharma and biotech, regulatory affairs, science sales, public health support roles. **Transferable skills:** lab technique, experimental design, data collection and analysis, scientific writing. **May need more school:** medicine, dentistry, veterinary, pharmacy, and physician assistant paths all require professional school; independent research careers generally require a PhD. **Misconception to avoid:** that a biology bachelor's by itself leads to being "a scientist"; most bench careers ladder through technician roles or graduate school. **Resume evidence:** named lab techniques, research posters or co-authorship, and any internship in an industry or clinical setting.
+- **Common careers:** laboratory technician, research assistant, quality control in pharma and biotech, regulatory affairs, science sales, public health support roles.
+- **Transferable skills:** lab technique, experimental design, data collection and analysis, scientific writing.
+- **May need more school:** medicine, dentistry, veterinary, pharmacy, and physician assistant paths all require professional school; independent research careers generally require a PhD.
+- **Misconception to avoid:** that a biology bachelor's by itself leads to being "a scientist"; most bench careers ladder through technician roles or graduate school.
+- **Resume evidence:** named lab techniques, research posters or co-authorship, and any internship in an industry or clinical setting.
 
 ### Healthcare
 
-**Common careers:** nursing, allied health roles (radiography, respiratory therapy, medical lab science), health administration, patient coordination. **Transferable skills:** clinical judgment, documentation, regulated-environment discipline, patient communication. **May need more school:** almost everything clinical is licensed; advanced practice (nurse practitioner, physical or occupational therapy, pharmacy) requires graduate degrees. **Misconception to avoid:** that healthcare demand makes every healthcare degree interchangeable; licensure defines the lane. **Resume evidence:** clinical hours, certifications and license status, and specific patient-facing or systems experience. Notably, nursing showed among the lowest unemployment (about 2.1 percent) and underemployment (about 12.8 percent) of any major in the New York Fed's 2024 data.
+- **Common careers:** nursing, allied health roles (radiography, respiratory therapy, medical lab science), health administration, patient coordination.
+- **Transferable skills:** clinical judgment, documentation, regulated-environment discipline, patient communication.
+- **May need more school:** almost everything clinical is licensed; advanced practice (nurse practitioner, physical or occupational therapy, pharmacy) requires graduate degrees.
+- **Misconception to avoid:** that healthcare demand makes every healthcare degree interchangeable; licensure defines the lane.
+- **Resume evidence:** clinical hours, certifications and license status, and specific patient-facing or systems experience. Notably, nursing showed among the lowest unemployment (about 2.1 percent) and underemployment (about 12.8 percent) of any major in the New York Fed's 2024 data.
 
 ### Mathematics and statistics
 
-**Common careers:** data analysis, actuarial work, quantitative finance, statistics roles in industry and government, teaching. **Transferable skills:** statistical reasoning, modeling, programming (increasingly expected), precision with assumptions. **May need more school:** actuarial credentials come from professional exams rather than graduate school; academic and senior research roles want a PhD. **Misconception to avoid:** that the options are teaching or academia; math graduates also work across industry and government roles. **Resume evidence:** analysis projects on real datasets with conclusions, exam progress for actuarial paths, and programming ability demonstrated in code, not claimed in a list.
+- **Common careers:** data analysis, actuarial work, quantitative finance, statistics roles in industry and government, teaching.
+- **Transferable skills:** statistical reasoning, modeling, programming (increasingly expected), precision with assumptions.
+- **May need more school:** actuarial credentials come from professional exams rather than graduate school; academic and senior research roles want a PhD.
+- **Misconception to avoid:** that the options are teaching or academia; math graduates also work across industry and government roles.
+- **Resume evidence:** analysis projects on real datasets with conclusions, exam progress for actuarial paths, and programming ability demonstrated in code, not claimed in a list.
 
 ### Physical sciences
 
-**Common careers:** laboratory and field technician roles, chemical and materials analysis, environmental consulting, instrumentation, science-adjacent technical sales. **Transferable skills:** instrumentation and measurement, modeling, safety and compliance discipline, technical writing. **May need more school:** most independent research and many industry scientist titles expect a PhD; geoscience licensure exists in some states. **Misconception to avoid:** that a physics or chemistry bachelor's translates directly into a "physicist" or "chemist" title; the bachelor's-level market is mostly technician and analyst work. **Resume evidence:** instruments you can run, research experience with named methods, and quantitative projects.
+- **Common careers:** laboratory and field technician roles, chemical and materials analysis, environmental consulting, instrumentation, science-adjacent technical sales.
+- **Transferable skills:** instrumentation and measurement, modeling, safety and compliance discipline, technical writing.
+- **May need more school:** most independent research and many industry scientist titles expect a PhD; geoscience licensure exists in some states.
+- **Misconception to avoid:** that a physics or chemistry bachelor's translates directly into a "physicist" or "chemist" title; the bachelor's-level market is mostly technician and analyst work.
+- **Resume evidence:** instruments you can run, research experience with named methods, and quantitative projects.
 
 ### Social sciences
 
-**Common careers:** policy analysis, market research, program coordination at nonprofits and agencies, data-informed roles in government, user research support. **Transferable skills:** research design, survey and interview methods, statistics, writing for decision-makers. **May need more school:** economics-heavy analyst tracks reward master's degrees; academia requires a PhD; note that anthropology showed the highest unemployment of any major (about 7.9 percent) in the New York Fed's 2024 data. **Misconception to avoid:** that social science degrees have no market; the market exists but rewards demonstrated research and data skills, not the major name. **Resume evidence:** a research project with a stated method and finding, statistical software proficiency, and internships at organizations that publish real work.
+- **Common careers:** policy analysis, market research, program coordination at nonprofits and agencies, data-informed roles in government, user research support.
+- **Transferable skills:** research design, survey and interview methods, statistics, writing for decision-makers.
+- **May need more school:** economics-heavy analyst tracks reward master's degrees; academia requires a PhD; note that anthropology showed the highest unemployment of any major (about 7.9 percent) in the New York Fed's 2024 data.
+- **Misconception to avoid:** that social science degrees have no market; the market exists but rewards demonstrated research and data skills, not the major name.
+- **Resume evidence:** a research project with a stated method and finding, statistical software proficiency, and internships at organizations that publish real work.
 
 ### Psychology
 
-**Common careers:** human resources, case management, behavioral health support, user experience research support, market research, sales. **Transferable skills:** understanding of behavior and motivation, research methods, measurement, interpersonal communication. **May need more school:** practicing as a psychologist, counselor, or therapist requires graduate degrees plus state licensure, with no bachelor's-level shortcut. **Misconception to avoid:** that a psychology bachelor's qualifies you to counsel clients; it does not, and planning as if it does is the field's most common early-career mistake. **Resume evidence:** research assistantships, human-subjects study experience, statistics coursework applied to real data, and any role involving structured people work.
+- **Common careers:** human resources, case management, behavioral health support, user experience research support, market research, sales.
+- **Transferable skills:** understanding of behavior and motivation, research methods, measurement, interpersonal communication.
+- **May need more school:** practicing as a psychologist, counselor, or therapist requires graduate degrees plus state licensure, with no bachelor's-level shortcut.
+- **Misconception to avoid:** that a psychology bachelor's qualifies you to counsel clients; it does not, and planning as if it does is the field's most common early-career mistake.
+- **Resume evidence:** research assistantships, human-subjects study experience, statistics coursework applied to real data, and any role involving structured people work.
 
 ### Communications
 
-**Common careers:** public relations, corporate communications, content marketing, social media management, journalism, event and brand coordination. **Transferable skills:** writing at speed, audience judgment, media production, analytics on content performance. **May need more school:** rarely required; portfolios outrank credentials. **Misconception to avoid:** that communications is a generic fallback; it is a portfolio field, and graduates without published work compete poorly. **Resume evidence:** published pieces, campaigns with reach or engagement numbers, and platform analytics you can speak to. Presence on 𝕏, LinkedIn, or a newsletter with real results counts as evidence.
+- **Common careers:** public relations, corporate communications, content marketing, social media management, journalism, event and brand coordination.
+- **Transferable skills:** writing at speed, audience judgment, media production, analytics on content performance.
+- **May need more school:** rarely required; portfolios outrank credentials.
+- **Misconception to avoid:** that communications is a generic fallback; it is a portfolio field, and graduates without published work compete poorly.
+- **Resume evidence:** published pieces, campaigns with reach or engagement numbers, and platform analytics you can speak to. Presence on 𝕏, LinkedIn, or a newsletter with real results counts as evidence.
 
 ### English and humanities
 
-**Common careers:** editing, content and technical writing, communications, publishing, teaching pathways, law school pipeline, nonprofit program work. **Transferable skills:** writing and revision, synthesis of complex material, argumentation, research. **May need more school:** law requires a JD; professorships require a PhD in a brutal academic market; teaching requires licensure. **Misconception to avoid:** the barista meme; humanities graduates work across business, media, education, and government, but the path runs through demonstrated skills, and underemployment risk is real for graduates without them. **Resume evidence:** a writing portfolio, editing or publication credits, and projects that show you can master unfamiliar material fast.
+- **Common careers:** editing, content and technical writing, communications, publishing, teaching pathways, law school pipeline, nonprofit program work.
+- **Transferable skills:** writing and revision, synthesis of complex material, argumentation, research.
+- **May need more school:** law requires a JD; professorships require a PhD in a brutal academic market; teaching requires licensure.
+- **Misconception to avoid:** the barista meme; humanities graduates work across business, media, education, and government, but the path runs through demonstrated skills, and underemployment risk is real for graduates without them.
+- **Resume evidence:** a writing portfolio, editing or publication credits, and projects that show you can master unfamiliar material fast.
 
 ### Education
 
-**Common careers:** classroom teaching, special education, instructional design, corporate training, education technology, school administration pathways. **Transferable skills:** curriculum design, assessment, presenting to hard audiences, classroom management. **May need more school:** teaching requires state licensure (usually built into the degree); administration typically requires a master's. **Misconception to avoid:** that education majors can only teach; instructional design and corporate training hire the same skill set. **Resume evidence:** student-teaching outcomes, lesson portfolios, and any measurable learning result. Education majors also posted some of the lowest unemployment rates of any field in the New York Fed's 2024 data (special education about 0.7 percent, elementary education about 1.2 percent).
+- **Common careers:** classroom teaching, special education, instructional design, corporate training, education technology, school administration pathways.
+- **Transferable skills:** curriculum design, assessment, presenting to hard audiences, classroom management.
+- **May need more school:** teaching requires state licensure (usually built into the degree); administration typically requires a master's.
+- **Misconception to avoid:** that education majors can only teach; instructional design and corporate training hire the same skill set.
+- **Resume evidence:** student-teaching outcomes, lesson portfolios, and any measurable learning result. Education majors also posted some of the lowest unemployment rates of any field in the New York Fed's 2024 data (special education about 0.7 percent, elementary education about 1.2 percent).
 
 ### Arts and design
 
-**Common careers:** graphic design, UX and product design support, motion and media production, game art, illustration, in-house creative roles. **Transferable skills:** visual communication, design tools, iteration from critique, client management. **May need more school:** mostly no; specialized master's programs exist but portfolios dominate hiring, while fine arts showed elevated unemployment (about 7.7 percent) in the 2024 data. **Misconception to avoid:** that art degrees lead nowhere; applied design roles are real, but they go to portfolios, not transcripts. **Resume evidence:** a curated portfolio with shipped or client work, before-and-after redesigns, and metrics where they exist (conversion, engagement, usability results).
+- **Common careers:** graphic design, UX and product design support, motion and media production, game art, illustration, in-house creative roles.
+- **Transferable skills:** visual communication, design tools, iteration from critique, client management.
+- **May need more school:** mostly no; specialized master's programs exist but portfolios dominate hiring, while fine arts showed elevated unemployment (about 7.7 percent) in the 2024 data.
+- **Misconception to avoid:** that art degrees lead nowhere; applied design roles are real, but they go to portfolios, not transcripts.
+- **Resume evidence:** a curated portfolio with shipped or client work, before-and-after redesigns, and metrics where they exist (conversion, engagement, usability results).
 
 ### Public policy and legal studies
 
-**Common careers:** legislative and agency staff roles, policy research, compliance, paralegal work, advocacy and nonprofit operations. **Transferable skills:** policy analysis, legal research, regulatory reading, briefing and memo writing. **May need more school:** practicing law requires a JD and bar admission; a legal studies bachelor's does not make you a lawyer; many policy careers reward a master of public policy or administration. **Misconception to avoid:** that pre-law majors are required for law school; law schools admit all majors, and the JD is the credential that matters. **Resume evidence:** internships in government or legal settings, published policy memos or research, and demonstrated command of a specific regulatory area.
+- **Common careers:** legislative and agency staff roles, policy research, compliance, paralegal work, advocacy and nonprofit operations.
+- **Transferable skills:** policy analysis, legal research, regulatory reading, briefing and memo writing.
+- **May need more school:** practicing law requires a JD and bar admission; a legal studies bachelor's does not make you a lawyer; many policy careers reward a master of public policy or administration.
+- **Misconception to avoid:** that pre-law majors are required for law school; law schools admit all majors, and the JD is the credential that matters.
+- **Resume evidence:** internships in government or legal settings, published policy memos or research, and demonstrated command of a specific regulatory area.
 
 ### Liberal arts and interdisciplinary studies
 
-**Common careers:** operations, project coordination, sales, customer success, general management pipelines, plus any of the writing and research paths above. **Transferable skills:** breadth, synthesis, communication, learning speed. **May need more school:** depends entirely on the destination career. **Misconception to avoid:** that employers reject liberal arts graduates categorically; what employers reject is the absence of evidence, which broad majors must work harder to supply. **Resume evidence:** concrete accomplishments from internships, jobs, or campus leadership with numbers attached, plus at least one hard skill (data analysis, a language, a tool) proven in use.
+- **Common careers:** operations, project coordination, sales, customer success, general management pipelines, plus any of the writing and research paths above.
+- **Transferable skills:** breadth, synthesis, communication, learning speed.
+- **May need more school:** depends entirely on the destination career.
+- **Misconception to avoid:** that employers reject liberal arts graduates categorically; what employers reject is the absence of evidence, which broad majors must work harder to supply.
+- **Resume evidence:** concrete accomplishments from internships, jobs, or campus leadership with numbers attached, plus at least one hard skill (data analysis, a language, a tool) proven in use.
 
 ## Comparison table by major family
 

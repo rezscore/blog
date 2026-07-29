@@ -49,6 +49,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [The Email Queue Was Not the Audience](https://blog.rezscore.com/dev/dev-the-email-queue-was-not-the-audience/) &middot; [source](content/dev-the-email-queue-was-not-the-audience.md)
 - [Your funnel is lying](https://blog.rezscore.com/dev/dev-your-funnel-is-lying/) &middot; [source](content/dev-your-funnel-is-lying.md)
 - [Two Ways Our Instrumentation Lied to Us](https://blog.rezscore.com/dev/dev-two-ways-our-instrumentation-lied/) &middot; [source](content/dev-two-ways-our-instrumentation-lied.md)
 - [Preview Is a Database Constraint, Not a Modal](https://blog.rezscore.com/dev/dev-preview-is-a-database-constraint-not-a-modal/) &middot; [source](content/dev-preview-is-a-database-constraint-not-a-modal.md)

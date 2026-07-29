@@ -6,7 +6,7 @@ updated: 2026-07-23
 author: "RezScore"
 tags: [resume, data, grading]
 description: "There is no universal resume score. Here is what a good one actually means, backed by the distribution of more than 70,000 real graded resumes, and when to stop optimizing for the number."
-image: /static/blog/images/what-is-a-good-resume-score/social-card-v2.png
+image: /static/blog/images/what-is-a-good-resume-score/social-card-v3.png
 image_alt: "Resume score guide illustrated with a balanced gauge and evidence checklist"
 image_width: 1200
 image_height: 630

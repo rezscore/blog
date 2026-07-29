@@ -6,7 +6,7 @@ updated: 2026-07-23
 author: "RezScore"
 tags: [resume, tools, comparison]
 description: "An honest resume checker and resume grader comparison: what six free tools actually do best, what each free tier includes, and where the paywall starts."
-image: /static/blog/images/free-resume-graders-compared-2026/social-card-v2.png
+image: /static/blog/images/free-resume-graders-compared-2026/social-card-v3.png
 image_alt: "Resume checker comparison illustrated with evaluation cards and a resume document"
 image_width: 1200
 image_height: 630

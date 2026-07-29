@@ -6,7 +6,7 @@ updated: 2026-07-23
 author: "RezScore"
 tags: [resume, ai, job-search]
 description: "Resumes are not dead, but the 2025 playbook is. AI screening changed the hiring stack; here is what to update first in 2026."
-image: /static/blog/images/why-your-2025-resume-is-obsolete/social-card-v2.png
+image: /static/blog/images/why-your-2025-resume-is-obsolete/social-card-v3.png
 image_alt: "Resume transformation from an outdated document to a modern resume"
 image_width: 1200
 image_height: 630

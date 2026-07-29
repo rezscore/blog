@@ -6,7 +6,7 @@ updated: 2026-07-23
 author: "RezScore"
 tags: [college, majors, data]
 description: "We ranked the top college majors for 2026 using 1.17 million real resumes, with salary data, trends, and the full top 100 list."
-image: /static/blog/images/top-100-undergraduate-majors-2026/social-card-v2.png
+image: /static/blog/images/top-100-undergraduate-majors-2026/social-card-v3.png
 image_alt: "Top 100 College Majors ranked for 2026, illustrated with graduation cap, books, and data trends"
 image_width: 1200
 image_height: 630
