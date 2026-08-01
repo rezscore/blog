@@ -1,5 +1,5 @@
 ---
-title: "Why Your Job Applications Get No Response (and What a Resume Can Actually Fix)"
+title: "Why your job applications get no response (and what a resume can actually fix)"
 slug: why-your-job-applications-get-no-response
 date: 2026-07-16
 author: "RezScore"

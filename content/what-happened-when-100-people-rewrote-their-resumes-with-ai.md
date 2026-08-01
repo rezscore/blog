@@ -1,5 +1,5 @@
 ---
-title: "What Happened When 100 People Rewrote Their Resumes With AI"
+title: "What happened when 100 people rewrote their resumes with AI"
 slug: what-happened-when-100-people-rewrote-their-resumes-with-ai
 date: 2026-02-24
 author: "RezScore"

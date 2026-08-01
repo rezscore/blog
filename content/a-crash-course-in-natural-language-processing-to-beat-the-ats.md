@@ -1,5 +1,5 @@
 ---
-title: "A Crash Course in Natural Language Processing to Beat the ATS"
+title: "A crash course in natural language processing to beat the ATS"
 slug: a-crash-course-in-natural-language-processing-to-beat-the-ats
 date: 2019-02-27
 author: "RezScore"

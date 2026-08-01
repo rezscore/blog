@@ -1,5 +1,5 @@
 ---
-title: "Building Proactive Job Search: From 43 Chat Messages to Real Matched Roles"
+title: "Building proactive job search: from 43 chat messages to real matched roles"
 slug: building-proactive-job-search
 date: 2026-06-30
 author: "RezScore"

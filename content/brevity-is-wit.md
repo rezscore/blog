@@ -1,5 +1,5 @@
 ---
-title: "Brevity Is Wit: Why Shorter Resumes Score Higher"
+title: "Brevity is wit: why shorter resumes score higher"
 slug: brevity-is-wit
 date: 2019-12-31
 author: "RezScore"

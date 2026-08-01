@@ -1,5 +1,5 @@
 ---
-title: "How to Escape a Black Hole"
+title: "How to escape a black hole"
 slug: how-to-escape-a-black-hole
 date: 2019-05-15
 author: "RezScore"

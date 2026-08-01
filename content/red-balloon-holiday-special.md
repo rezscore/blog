@@ -1,5 +1,5 @@
 ---
-title: "The Red Balloon Holiday Special"
+title: "The red balloon holiday special"
 slug: red-balloon-holiday-special
 date: 2019-12-02
 author: "RezScore"

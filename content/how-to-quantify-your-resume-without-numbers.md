@@ -1,5 +1,5 @@
 ---
-title: "How to Quantify Your Resume When You Don't Have Numbers"
+title: "How to quantify your resume when you don't have numbers"
 slug: how-to-quantify-your-resume-without-numbers
 date: 2026-07-16
 author: "RezScore"

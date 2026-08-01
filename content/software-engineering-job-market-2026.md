@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering Job Market 2026: What the Data Says"
+title: "Software engineering job market 2026: what the data says"
 slug: software-engineering-job-market-2026
 date: 2026-07-23
 author: "RezScore"

@@ -1,5 +1,5 @@
 ---
-title: "The AI Revolution in Career Tech: Where We've Been, Where We're Going"
+title: "The AI revolution in career tech: where we've been, where we're going"
 slug: the-ai-revolution-in-career-tech
 date: 2026-01-03
 author: "RezScore"

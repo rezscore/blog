@@ -1,5 +1,5 @@
 ---
-title: "How Career Programs Can Actually Measure Resume Improvement"
+title: "How career programs can actually measure resume improvement"
 slug: measuring-resume-improvement-career-programs
 date: 2026-07-14
 author: "RezScore"

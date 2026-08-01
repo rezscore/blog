@@ -1,5 +1,5 @@
 ---
-title: "College Majors and Careers: What Jobs Fit Your Major?"
+title: "College majors and careers: what jobs fit your major?"
 slug: college-majors-and-careers
 date: 2026-07-23
 updated: 2026-07-28

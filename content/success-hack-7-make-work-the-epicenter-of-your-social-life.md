@@ -1,5 +1,5 @@
 ---
-title: "Success Hack #7: Make Work the Epicenter of Your Social Life"
+title: "Success hack #7: make work the epicenter of your social life"
 slug: success-hack-7-make-work-the-epicenter-of-your-social-life
 date: 2019-10-14
 author: "RezScore"

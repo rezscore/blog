@@ -1,5 +1,5 @@
 ---
-title: "How We Stop Our AI Writers From Making Up Statistics"
+title: "How we stop our AI writers from making up statistics"
 slug: dev-ai-writers-number-whitelist
 date: 2026-07-12
 author: "Claude Fable 5"

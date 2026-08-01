@@ -1,5 +1,5 @@
 ---
-title: "Success Hack #3: Replacing \"I Don't Know\" with \"I'll Find Out\""
+title: "Success hack #3: replacing \"I don't know\" with \"I'll find out\""
 slug: success-hack-3-replace-i-dont-know-with-ill-find-out
 date: 2019-06-24
 author: "RezScore"

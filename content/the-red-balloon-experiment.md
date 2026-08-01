@@ -1,5 +1,5 @@
 ---
-title: "The Red Balloon Experiment"
+title: "The red balloon experiment"
 slug: the-red-balloon-experiment
 date: 2018-12-31
 author: "RezScore"

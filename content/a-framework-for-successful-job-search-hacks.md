@@ -1,5 +1,5 @@
 ---
-title: "A Framework for Success Hacking"
+title: "A framework for success hacking"
 slug: a-framework-for-successful-job-search-hacks
 date: 2019-06-03
 author: "RezScore"

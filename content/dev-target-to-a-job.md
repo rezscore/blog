@@ -1,5 +1,5 @@
 ---
-title: "Target to a Job: watch your resume rebuild itself"
+title: "Target to a job: watch your resume rebuild itself"
 slug: dev-target-to-a-job
 date: 2026-06-16
 author: "RezScore"

@@ -1,5 +1,5 @@
 ---
-title: "Anatomy of an A+ Resume"
+title: "Anatomy of an A+ resume"
 slug: anatomy-of-an-a-resume
 date: 2019-06-01
 author: "RezScore"

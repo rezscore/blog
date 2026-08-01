@@ -1,5 +1,5 @@
 ---
-title: "Top 100 College Majors in 2019 - Historical Ranking"
+title: "Top 100 college majors in 2019 - historical ranking"
 slug: top-100-undergraduate-majors-2019
 date: 2019-08-31
 author: "RezScore"

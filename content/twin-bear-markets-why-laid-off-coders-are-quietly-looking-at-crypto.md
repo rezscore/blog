@@ -1,5 +1,5 @@
 ---
-title: "Twin Bear Markets: Why Laid-Off Coders Are Quietly Looking at Crypto"
+title: "Twin bear markets: why laid-off coders are quietly looking at crypto"
 slug: twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto
 date: 2026-06-16
 author: "Gerrit Hall"

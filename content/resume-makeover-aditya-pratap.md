@@ -1,5 +1,5 @@
 ---
-title: "Resume Makeover: Aditya Pratap"
+title: "Resume makeover: Aditya Pratap"
 slug: resume-makeover-aditya-pratap
 date: 2018-10-17
 author: "RezScore"

@@ -1,5 +1,5 @@
 ---
-title: "Success Hack #5: First is Worst, Second is Best"
+title: "Success hack #5: first is worst, second is best"
 slug: success-hack-6-first-is-worst
 date: 2019-07-25
 author: "RezScore"

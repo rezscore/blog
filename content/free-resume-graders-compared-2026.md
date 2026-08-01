@@ -1,5 +1,5 @@
 ---
-title: "Free Resume Checkers and Graders Compared (2026): What Each Tool Is Actually Best At"
+title: "Free resume checkers and graders compared (2026): what each tool is actually best at"
 slug: free-resume-graders-compared-2026
 date: 2026-07-06
 updated: 2026-07-23

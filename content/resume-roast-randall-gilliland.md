@@ -1,5 +1,5 @@
 ---
-title: "Resume Roast: Randall Gilliland"
+title: "Resume roast: Randall Gilliland"
 slug: resume-roast-randall-gilliland
 date: 2019-06-19
 author: "RezScore"

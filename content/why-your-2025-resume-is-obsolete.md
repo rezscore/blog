@@ -1,5 +1,5 @@
 ---
-title: "Are Resumes Outdated? Why Your 2025 Resume Won't Cut It in 2026"
+title: "Are resumes outdated? Why your 2025 resume won't cut it in 2026"
 slug: why-your-2025-resume-is-obsolete
 date: 2026-01-06
 updated: 2026-07-23

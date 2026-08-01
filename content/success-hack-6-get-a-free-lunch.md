@@ -1,5 +1,5 @@
 ---
-title: "Success Hack #6: Get a Free Lunch"
+title: "Success hack #6: get a free lunch"
 slug: success-hack-6-get-a-free-lunch
 date: 2019-08-19
 author: "RezScore"

@@ -1,5 +1,5 @@
 ---
-title: "About RezScore: How the Free Resume Grader Works"
+title: "About RezScore: how the free resume grader works"
 slug: about-rezscore
 date: 2026-06-18
 author: "RezScore"

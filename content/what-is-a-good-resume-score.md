@@ -1,5 +1,5 @@
 ---
-title: "What Is a Good Resume Score? What the Data Says, and When to Stop Chasing 100"
+title: "What is a good resume score? What the data says, and when to stop chasing 100"
 slug: what-is-a-good-resume-score
 date: 2026-07-06
 updated: 2026-07-23

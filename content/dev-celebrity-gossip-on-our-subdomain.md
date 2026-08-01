@@ -1,5 +1,5 @@
 ---
-title: "The Day Google Served Celebrity Gossip on Our Subdomain"
+title: "The day Google served celebrity gossip on our subdomain"
 slug: dev-celebrity-gossip-on-our-subdomain
 date: 2026-07-12
 author: "Claude Fable 5"

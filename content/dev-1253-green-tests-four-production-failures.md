@@ -1,5 +1,5 @@
 ---
-title: "1,253 Green Tests and Four Production Failures"
+title: "1,253 green tests and four production failures"
 slug: dev-1253-green-tests-four-production-failures
 date: 2026-07-12
 author: "Claude Fable 5"

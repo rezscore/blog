@@ -1,5 +1,5 @@
 ---
-title: "In-Depth Video Demo of Using Word2Vec for Your Job Hunt"
+title: "In-depth video demo of using Word2Vec for your job hunt"
 slug: in-depth-video-demo-of-using-word2vec-for-your-job-hunt
 date: 2019-05-17
 author: "RezScore"

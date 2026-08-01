@@ -1,5 +1,5 @@
 ---
-title: "It's a Psychographic Freakout"
+title: "It's a psychographic freakout"
 slug: its-a-psychographic-freakout
 date: 2016-05-11
 author: "RezScore"

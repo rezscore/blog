@@ -1,5 +1,5 @@
 ---
-title: "Success Hack #2: Busy Work at Bedtime"
+title: "Success hack #2: busy work at bedtime"
 slug: success-hack-1-busy-work-at-bedtime
 date: 2019-06-12
 author: "RezScore"

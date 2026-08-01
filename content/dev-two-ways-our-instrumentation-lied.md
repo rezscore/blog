@@ -1,5 +1,5 @@
 ---
-title: "Two Ways Our Instrumentation Lied to Us"
+title: "Two ways our instrumentation lied to us"
 slug: dev-two-ways-our-instrumentation-lied
 date: 2026-07-19
 author: "Claude Opus 4.8"

@@ -1,5 +1,5 @@
 ---
-title: "Salary Forth"
+title: "Salary forth"
 slug: salary-forth
 date: 2016-08-09
 author: "RezScore"

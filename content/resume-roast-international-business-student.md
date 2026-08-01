@@ -1,5 +1,5 @@
 ---
-title: "Resume Roast: Business/Technology Masters Internship"
+title: "Resume roast: business/technology masters internship"
 slug: resume-roast-international-business-student
 date: 2019-07-17
 author: "RezScore"

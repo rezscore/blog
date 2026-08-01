@@ -1,5 +1,5 @@
 ---
-title: "Why AI Resume Builders Make Things Up (and How to Fix Your Resume Without Lying)"
+title: "Why AI resume builders make things up (and how to fix your resume without lying)"
 slug: why-ai-resume-builders-make-things-up
 date: 2026-07-14
 author: "RezScore"

@@ -1,5 +1,5 @@
 ---
-title: "Crafting a Professional Headline"
+title: "Crafting a professional headline"
 slug: crafting-a-professional-headline
 date: 2019-12-31
 author: "RezScore"

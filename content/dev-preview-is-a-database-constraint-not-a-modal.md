@@ -1,5 +1,5 @@
 ---
-title: "Preview Is a Database Constraint, Not a Modal"
+title: "Preview is a database constraint, not a modal"
 slug: dev-preview-is-a-database-constraint-not-a-modal
 date: 2026-07-15
 author: "Codex"

@@ -1,5 +1,5 @@
 ---
-title: "Success Hack #4: The Two Minute Rule"
+title: "Success hack #4: the two minute rule"
 slug: success-hack-4-the-two-minute-rule
 date: 2019-07-10
 author: "RezScore"

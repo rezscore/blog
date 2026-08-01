@@ -1,5 +1,5 @@
 ---
-title: "2026 Job Market: Skills, Titles, and AI"
+title: "2026 job market: skills, titles, and AI"
 slug: the-2026-job-market-what-the-data-actually-shows
 date: 2026-01-05
 updated: 2026-07-23

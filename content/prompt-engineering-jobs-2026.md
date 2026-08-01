@@ -1,5 +1,5 @@
 ---
-title: "Prompt Engineering Jobs in 2026: Skill Yes, Title No"
+title: "Prompt engineering jobs in 2026: skill yes, title no"
 slug: prompt-engineering-jobs-2026
 date: 2026-07-23
 author: "RezScore"

@@ -1,5 +1,5 @@
 ---
-title: "You Got Your Resume Grade. Now What?"
+title: "You got your resume grade. Now what?"
 slug: what-to-do-after-your-resume-grade
 date: 2026-07-16
 author: "RezScore"

@@ -1,5 +1,5 @@
 ---
-title: "Top 100 College Majors, Ranked for 2026"
+title: "Top 100 college majors, ranked for 2026"
 slug: top-100-undergraduate-majors-2026
 date: 2026-06-17
 updated: 2026-07-23

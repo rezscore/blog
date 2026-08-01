@@ -1,5 +1,5 @@
 ---
-title: "Responsibilities vs. Achievements"
+title: "Responsibilities vs. achievements"
 slug: responsibilities-vs-achievements
 date: 2019-12-31
 author: "RezScore"
