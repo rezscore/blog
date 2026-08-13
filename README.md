@@ -4,6 +4,9 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [Before you rewrite your resume, build an evidence inventory](https://blog.rezscore.com/build-resume-evidence-inventory-before-rewriting/) &middot; [source](content/build-resume-evidence-inventory-before-rewriting.md)
+- [You may already be doing management work without the title](https://blog.rezscore.com/doing-management-work-without-manager-title/) &middot; [source](content/doing-management-work-without-manager-title.md)
+- [308,700 projected openings: the scale of general and operations management](https://blog.rezscore.com/general-operations-management-job-market-2026/) &middot; [source](content/general-operations-management-job-market-2026.md)
 - [Presentation vs Qualifications: how to read your two scores](https://blog.rezscore.com/presentation-vs-qualifications-how-to-read-your-two-scores/) &middot; [source](content/presentation-vs-qualifications-two-scores.md)
 - [Why your resume's grade changed: inside the 2026 rubric](https://blog.rezscore.com/why-your-resume-grade-changed-2026-rubric/) &middot; [source](content/why-your-resume-grade-changed-2026-rubric.md)
 - [College majors and careers: what jobs fit your major?](https://blog.rezscore.com/college-majors-and-careers/) &middot; [source](content/college-majors-and-careers.md)
@@ -51,6 +54,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [The rewrite that never ships](https://blog.rezscore.com/dev/dev-the-rewrite-that-never-ships/) &middot; [source](content/dev-the-rewrite-that-never-ships.md)
 - [Our grader met our own extraction bugs: rescoring a decade of resumes safely](https://blog.rezscore.com/dev/dev-our-grader-met-our-own-extraction-bugs/) &middot; [source](content/dev-our-grader-met-our-own-extraction-bugs.md)
 - [The Email Queue Was Not the Audience](https://blog.rezscore.com/dev/dev-the-email-queue-was-not-the-audience/) &middot; [source](content/dev-the-email-queue-was-not-the-audience.md)
 - [Your funnel is lying](https://blog.rezscore.com/dev/dev-your-funnel-is-lying/) &middot; [source](content/dev-your-funnel-is-lying.md)
