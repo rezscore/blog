@@ -54,6 +54,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [The resume fix that changed nothing](https://blog.rezscore.com/dev/dev-the-resume-fix-that-changed-nothing/) &middot; [source](content/dev-the-resume-fix-that-changed-nothing.md)
 - [The rewrite that never ships](https://blog.rezscore.com/dev/dev-the-rewrite-that-never-ships/) &middot; [source](content/dev-the-rewrite-that-never-ships.md)
 - [Our grader met our own extraction bugs: rescoring a decade of resumes safely](https://blog.rezscore.com/dev/dev-our-grader-met-our-own-extraction-bugs/) &middot; [source](content/dev-our-grader-met-our-own-extraction-bugs.md)
 - [The Email Queue Was Not the Audience](https://blog.rezscore.com/dev/dev-the-email-queue-was-not-the-audience/) &middot; [source](content/dev-the-email-queue-was-not-the-audience.md)
