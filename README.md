@@ -4,6 +4,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [Should you pay for a resume rewrite in 2026? A decision guide to DIY, AI, and human help](https://blog.rezscore.com/should-you-pay-for-a-resume-rewrite-2026/) &middot; [source](content/should-you-pay-for-a-resume-rewrite-2026.md)
 - [Before you rewrite your resume, build an evidence inventory](https://blog.rezscore.com/build-resume-evidence-inventory-before-rewriting/) &middot; [source](content/build-resume-evidence-inventory-before-rewriting.md)
 - [You may already be doing management work without the title](https://blog.rezscore.com/doing-management-work-without-manager-title/) &middot; [source](content/doing-management-work-without-manager-title.md)
 - [308,700 projected openings: the scale of general and operations management](https://blog.rezscore.com/general-operations-management-job-market-2026/) &middot; [source](content/general-operations-management-job-market-2026.md)
@@ -54,6 +55,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [We ran six homepage A/B tests. Almost nothing moved.](https://blog.rezscore.com/dev/dev-six-homepage-ab-tests-almost-nothing-moved/) &middot; [source](content/dev-six-homepage-ab-tests-almost-nothing-moved.md)
 - [The resume fix that changed nothing](https://blog.rezscore.com/dev/dev-the-resume-fix-that-changed-nothing/) &middot; [source](content/dev-the-resume-fix-that-changed-nothing.md)
 - [The rewrite that never ships](https://blog.rezscore.com/dev/dev-the-rewrite-that-never-ships/) &middot; [source](content/dev-the-rewrite-that-never-ships.md)
 - [Our grader met our own extraction bugs: rescoring a decade of resumes safely](https://blog.rezscore.com/dev/dev-our-grader-met-our-own-extraction-bugs/) &middot; [source](content/dev-our-grader-met-our-own-extraction-bugs.md)
