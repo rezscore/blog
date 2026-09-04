@@ -15,17 +15,17 @@ draft: false
 
 I spent an evening at a crypto-and-AI meetup near the University of Washington recently, talking with computer science students. UW has one of the strongest CS programs in the country - Microsoft's backyard tends to do that - so this was a room full of people who, a few years ago, would have been fielding competing six-figure offers before graduation. The event was a MetaMask Dev Builders Night hosted by the [UW Blockchain Society](https://x.com/uw_blockchain), who put the whole evening together.
 
-<div class="rz-tweet-embed">
-  <a href="https://x.com/uw_blockchain/status/2062430089355432323" target="_blank" rel="noopener" class="rz-tweet-embed__link">
-    <div class="rz-tweet-embed__head">
-      <span class="rz-tweet-embed__name">UW Blockchain Society</span>
-      <span class="rz-tweet-embed__handle">@uw_blockchain</span>
+<div class="tweet-embed">
+  <a href="https://x.com/uw_blockchain/status/2062430089355432323" target="_blank" rel="noopener" class="tweet-embed__link">
+    <div class="tweet-embed__head">
+      <span class="tweet-embed__name">UW Blockchain Society</span>
+      <span class="tweet-embed__handle">@uw_blockchain</span>
     </div>
-    <div class="rz-tweet-embed__text">
+    <div class="tweet-embed__text">
       We had an amazing time at @MetaMaskDev Builders Night! Really cool seeing UW students learn directly from Seattle Web3 founders and crypto professionals with the downtown skyline behind us. Already excited for the next one!
     </div>
-    <img src="/static/blog/images/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/uw-blockchain-builders-night.jpg" alt="UW Blockchain Society members and Seattle Web3 founders on a rooftop overlooking the downtown skyline at MetaMask Dev Builders Night" class="rz-tweet-embed__img">
-    <div class="rz-tweet-embed__foot">
+    <img src="/static/blog/images/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/uw-blockchain-builders-night.jpg" alt="UW Blockchain Society members and Seattle Web3 founders on a rooftop overlooking the downtown skyline at MetaMask Dev Builders Night" class="tweet-embed__img">
+    <div class="tweet-embed__foot">
       View on 𝕏 &rarr;
     </div>
   </a>
