@@ -4,6 +4,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [The September surge is real. Your resume's problem is probably not the ATS.](https://blog.rezscore.com/september-surge-resume-problem-is-not-the-ats/) &middot; [source](content/september-surge-resume-problem-is-not-the-ats.md)
 - [Should you pay for a resume rewrite in 2026? A decision guide to DIY, AI, and human help](https://blog.rezscore.com/should-you-pay-for-a-resume-rewrite-2026/) &middot; [source](content/should-you-pay-for-a-resume-rewrite-2026.md)
 - [Before you rewrite your resume, build an evidence inventory](https://blog.rezscore.com/build-resume-evidence-inventory-before-rewriting/) &middot; [source](content/build-resume-evidence-inventory-before-rewriting.md)
 - [You may already be doing management work without the title](https://blog.rezscore.com/doing-management-work-without-manager-title/) &middot; [source](content/doing-management-work-without-manager-title.md)
