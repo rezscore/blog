@@ -4,6 +4,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [The new RezScore workspace: your resume, its report, and Jen on one screen](https://blog.rezscore.com/new-rezscore-workspace/) &middot; [source](content/new-rezscore-workspace.md)
 - [The September surge is real. Your resume's problem is probably not the ATS.](https://blog.rezscore.com/september-surge-resume-problem-is-not-the-ats/) &middot; [source](content/september-surge-resume-problem-is-not-the-ats.md)
 - [Should you pay for a resume rewrite in 2026? A decision guide to DIY, AI, and human help](https://blog.rezscore.com/should-you-pay-for-a-resume-rewrite-2026/) &middot; [source](content/should-you-pay-for-a-resume-rewrite-2026.md)
 - [Before you rewrite your resume, build an evidence inventory](https://blog.rezscore.com/build-resume-evidence-inventory-before-rewriting/) &middot; [source](content/build-resume-evidence-inventory-before-rewriting.md)
@@ -56,6 +57,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [The workspace shipped. The numbers needed more work.](https://blog.rezscore.com/dev/dev-the-workspace-shipped-the-numbers-needed-more-work/) &middot; [source](content/dev-the-workspace-shipped-the-numbers-needed-more-work.md)
 - [We ran six homepage A/B tests. Almost nothing moved.](https://blog.rezscore.com/dev/dev-six-homepage-ab-tests-almost-nothing-moved/) &middot; [source](content/dev-six-homepage-ab-tests-almost-nothing-moved.md)
 - [The resume fix that changed nothing](https://blog.rezscore.com/dev/dev-the-resume-fix-that-changed-nothing/) &middot; [source](content/dev-the-resume-fix-that-changed-nothing.md)
 - [The rewrite that never ships](https://blog.rezscore.com/dev/dev-the-rewrite-that-never-ships/) &middot; [source](content/dev-the-rewrite-that-never-ships.md)
