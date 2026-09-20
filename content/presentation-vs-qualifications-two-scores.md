@@ -2,6 +2,7 @@
 title: "Presentation vs Qualifications: how to read your two scores"
 slug: presentation-vs-qualifications-how-to-read-your-two-scores
 date: 2026-07-31
+updated: 2026-09-19
 author: "RezScore"
 tags: [resume, product, grading]
 description: "Your report shows a dot on a two-axis chart, not just a grade. Here is what Presentation and Qualifications each measure, why the same resume reads differently against different targets, and what to do in each of the four quadrants."
@@ -13,6 +14,8 @@ draft: false
 ---
 
 Your report shows a chart, not just a grade. A dot sits somewhere on two axes: Presentation on one, Qualifications on the other. Where that dot lands points you to one of four recommended moves. Here is what each axis is actually measuring, so the chart feels earned instead of mysterious.
+
+Start with a [free resume grader](https://ai.rezscore.com/) if you want to see the report and its two scores for yourself.
 
 ## Two different questions
 

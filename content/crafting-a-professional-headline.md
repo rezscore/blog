@@ -1,16 +1,19 @@
 ---
-title: "Crafting a professional headline"
+title: "What Is a Professional Headline on a Resume? Examples"
 slug: crafting-a-professional-headline
 date: 2019-12-31
+updated: 2026-09-19
 author: "RezScore"
 tags: [resume, headline]
-description: "Replace the objective with a clear professional headline."
+description: "A professional headline is a short summary of what you do and where you are headed. Learn how to write one for your resume, profile, and email."
 image: /static/blog/images/crafting-a-professional-headline/1_cv2RdrqC1Qg5W9MCHtubtQ.jpeg
 medium_slug: crafting-a-professional-headline-67f366c43ba1
 draft: false
 ---
 
 ![](/static/blog/images/crafting-a-professional-headline/1_cv2RdrqC1Qg5W9MCHtubtQ.jpeg)
+
+A professional headline is a short statement that tells employers what you do and the value you bring. On a resume, it gives readers a clear reason to keep reading before they reach your work history.
 
 At RezScore, we’re all about helping you write the very best resume in every possible way. From your cover letter to your skills section, we’re going to make sure your resume is optimal.
 
@@ -30,7 +33,7 @@ Update often. Your profile statement should be different for every company you a
 
 Use dynamic, active language. You want to inspire potential employers, clients, and networking contacts to want to read more about you, right? Pick strong words that define you rather than “fluff”.
 
-Add numbers. The best way to convince someone you are as good at something as you claim to be is to give him or her as much context as possible. Often, that means adding numbers. Money saved, deals closed, calls managed, budgets handled — find a meaningful number and put it up front and center.
+Add numbers. The best way to convince someone you are as good at something as you claim to be is to give him or her as much context as possible. Often, that means adding numbers. Money saved, deals closed, calls managed, budgets handled. Find a meaningful number and put it up front and center.
 
 See Also:
 

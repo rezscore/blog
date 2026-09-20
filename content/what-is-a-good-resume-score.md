@@ -2,7 +2,7 @@
 title: "What is a good resume score? What the data says, and when to stop chasing 100"
 slug: what-is-a-good-resume-score
 date: 2026-07-06
-updated: 2026-07-23
+updated: 2026-09-19
 author: "RezScore"
 tags: [resume, data, grading]
 description: "There is no universal resume score. Here is what a good one actually means, backed by the distribution of more than 70,000 real graded resumes, and when to stop optimizing for the number."
@@ -14,6 +14,8 @@ draft: false
 ---
 
 *You have a score in hand from some tool and you want to know one thing: is it good? The honest answer is that the question is incomplete until you know what the number is measuring.*
+
+Start with a [free resume grader](https://ai.rezscore.com/) if you want a clear baseline before interpreting your score.
 
 ## There is no universal resume score
 

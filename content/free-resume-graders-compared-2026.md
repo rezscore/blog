@@ -2,7 +2,7 @@
 title: "Free resume checkers and graders compared (2026): what each tool is actually best at"
 slug: free-resume-graders-compared-2026
 date: 2026-07-06
-updated: 2026-07-23
+updated: 2026-09-19
 author: "RezScore"
 tags: [resume, tools, comparison]
 description: "An honest resume checker and resume grader comparison: what six free tools actually do best, what each free tier includes, and where the paywall starts."
@@ -14,6 +14,8 @@ draft: false
 ---
 
 *Every free resume checker on the internet, including the one we built, is the top of a paid funnel. That is not a scandal. It is just how the product works, and once you know it, you can use these tools better.*
+
+If you want a free resume grader to start with, try our [free resume grader](https://ai.rezscore.com/) before comparing the other tools below.
 
 ## The premise
 

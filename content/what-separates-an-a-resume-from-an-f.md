@@ -2,7 +2,7 @@
 title: "We have graded 13 million resumes. Here is what separates an A from an F."
 slug: what-separates-an-a-resume-from-an-f
 date: 2026-07-06
-updated: 2026-07-23
+updated: 2026-09-19
 author: "RezScore"
 tags: [data, resumes, grading]
 description: "RezScore has graded more than 13 million resumes. We analyzed the newest 70,000+ of them: the distribution, the quantification gradient, and a counterintuitive finding about length."

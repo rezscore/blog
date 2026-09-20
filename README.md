@@ -4,6 +4,8 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [The complete list of college majors, by field (2026)](https://blog.rezscore.com/list-of-college-majors/) &middot; [source](content/list-of-college-majors.md)
+- [Weak resume bullets, rewritten: before and after examples](https://blog.rezscore.com/resume-bullet-points-before-and-after/) &middot; [source](content/resume-bullet-points-before-and-after.md)
 - [The new RezScore workspace: your resume, its report, and Jen on one screen](https://blog.rezscore.com/new-rezscore-workspace/) &middot; [source](content/new-rezscore-workspace.md)
 - [The September surge is real. Your resume's problem is probably not the ATS.](https://blog.rezscore.com/september-surge-resume-problem-is-not-the-ats/) &middot; [source](content/september-surge-resume-problem-is-not-the-ats.md)
 - [Should you pay for a resume rewrite in 2026? A decision guide to DIY, AI, and human help](https://blog.rezscore.com/should-you-pay-for-a-resume-rewrite-2026/) &middot; [source](content/should-you-pay-for-a-resume-rewrite-2026.md)
@@ -28,10 +30,10 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 - [Twin bear markets: why laid-off coders are quietly looking at crypto](https://blog.rezscore.com/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto/) &middot; [source](content/twin-bear-markets-why-laid-off-coders-are-quietly-looking-at-crypto.md)
 - [What happened when 100 people rewrote their resumes with AI](https://blog.rezscore.com/what-happened-when-100-people-rewrote-their-resumes-with-ai/) &middot; [source](content/what-happened-when-100-people-rewrote-their-resumes-with-ai.md)
 - [Are resumes outdated? Why your 2025 resume won't cut it in 2026](https://blog.rezscore.com/why-your-2025-resume-is-obsolete/) &middot; [source](content/why-your-2025-resume-is-obsolete.md)
-- [2026 job market: skills, titles, and AI](https://blog.rezscore.com/the-2026-job-market-what-the-data-actually-shows/) &middot; [source](content/the-2026-job-market-what-the-data-actually-shows.md)
+- [AI Engineer Job Market 2026: What the Data Shows](https://blog.rezscore.com/the-2026-job-market-what-the-data-actually-shows/) &middot; [source](content/the-2026-job-market-what-the-data-actually-shows.md)
 - [The AI revolution in career tech: where we've been, where we're going](https://blog.rezscore.com/the-ai-revolution-in-career-tech/) &middot; [source](content/the-ai-revolution-in-career-tech.md)
 - [Brevity is wit: why shorter resumes score higher](https://blog.rezscore.com/brevity-is-wit/) &middot; [source](content/brevity-is-wit.md)
-- [Crafting a professional headline](https://blog.rezscore.com/crafting-a-professional-headline/) &middot; [source](content/crafting-a-professional-headline.md)
+- [What Is a Professional Headline on a Resume? Examples](https://blog.rezscore.com/crafting-a-professional-headline/) &middot; [source](content/crafting-a-professional-headline.md)
 - [Responsibilities vs. achievements](https://blog.rezscore.com/responsibilities-vs-achievements/) &middot; [source](content/responsibilities-vs-achievements.md)
 - [The red balloon holiday special](https://blog.rezscore.com/red-balloon-holiday-special/) &middot; [source](content/red-balloon-holiday-special.md)
 - [Success hack #7: make work the epicenter of your social life](https://blog.rezscore.com/success-hack-7-make-work-the-epicenter-of-your-social-life/) &middot; [source](content/success-hack-7-make-work-the-epicenter-of-your-social-life.md)

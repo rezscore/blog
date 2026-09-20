@@ -2,6 +2,7 @@
 title: "You got your resume grade. Now what?"
 slug: what-to-do-after-your-resume-grade
 date: 2026-07-16
+updated: 2026-09-19
 author: "RezScore"
 tags: [resume, grading]
 description: "The most common question after a resume grade is not about the grade. It is: what do I actually do next? Here is the exact order of operations, from evidence bullets to job targeting to the re-grade."
@@ -13,6 +14,8 @@ draft: false
 ---
 
 *The grade is the diagnosis. This is the treatment plan.*
+
+If you need a starting point, use a [free resume grader](https://ai.rezscore.com/) before working through the steps below.
 
 ## The question everyone actually asks
 

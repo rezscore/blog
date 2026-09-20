@@ -1,11 +1,11 @@
 ---
-title: "2026 job market: skills, titles, and AI"
+title: "AI Engineer Job Market 2026: What the Data Shows"
 slug: the-2026-job-market-what-the-data-actually-shows
 date: 2026-01-05
-updated: 2026-07-23
+updated: 2026-09-19
 author: "RezScore"
 tags: [job-market, data, ai]
-description: "Real 2026 posting data: the software and AI skills that actually pay, which enterprise tech still hires, what actually died (and what didn't), and how AI changed resume screening."
+description: "Our analysis of current US job postings found only 7,359 mentions of prompt engineering, while Python appeared in 137,176 roles across the market."
 image: /static/blog/images/the-2026-job-market-what-the-data-actually-shows/social-card-v3.png
 image_alt: "2026 job market guide illustrated with career paths, a resume, and emerging skills"
 image_width: 1200

@@ -2,6 +2,7 @@
 title: "How to quantify your resume when you don't have numbers"
 slug: how-to-quantify-your-resume-without-numbers
 date: 2026-07-16
+updated: 2026-09-19
 author: "RezScore"
 tags: [resume, writing]
 description: "Every resume guide says quantify your achievements. Nobody explains what to do when your work never came with a dashboard. Here is the honest method: mine, estimate defensibly, or be specific in a different direction."
@@ -13,6 +14,8 @@ draft: false
 ---
 
 *"Quantify your achievements" is great advice for people who have a dashboard. Here is the version for everyone else.*
+
+Try a [free resume grader](https://ai.rezscore.com/) to see which evidence category needs the most work on your document.
 
 ## The most common question we get
 

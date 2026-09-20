@@ -2,6 +2,7 @@
 title: "Why your resume's grade changed: inside the 2026 rubric"
 slug: why-your-resume-grade-changed-2026-rubric
 date: 2026-07-31
+updated: 2026-09-19
 author: "RezScore"
 tags: [resume, grading, rubric]
 description: "Your saved resume's grade moved and you didn't touch the document. Here's what the 2026 rubric measures, why evidence now carries more weight, and what to fix first."
@@ -13,6 +14,8 @@ draft: false
 ---
 
 If you're reading this because an email told you your saved resume's grade changed, here's the short version: your document didn't move, the rubric did.
+
+You can get a baseline from a [free resume grader](https://ai.rezscore.com/) before comparing your score with the updated rubric.
 
 That's disorienting when a grade feels like a fact. It isn't. A grade is a reading against a rubric, and rubrics improve as evidence accumulates. RezScore has now graded more than 13 million resumes, and each round of grading tells us more about what actually separates a resume that gets a callback from one that doesn't. The 2026 revision folds that learning back into the scoring model. The document you uploaded is exactly as it was. The bar it's measured against isn't.
 

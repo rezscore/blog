@@ -2,6 +2,7 @@
 title: "About RezScore: how the free resume grader works"
 slug: about-rezscore
 date: 2026-06-18
+updated: 2026-09-19
 author: "RezScore"
 tags: [rezscore, product, resume grader]
 description: "What RezScore is, how the free resume grader works, and a short walkthrough video: upload your resume, get two instant grades, see where you land on the map, and talk to Jen about what to fix first."
