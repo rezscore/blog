@@ -100,7 +100,9 @@ Screening is faster and more automated than ever, and generic resumes fail quiet
 - **Enterprise and integration experience.** Given the posting volumes above, do not bury Salesforce, SAP, Workday, or Oracle work below hobby projects.
 - **One clear specialization.** A resume that says "everything" says nothing. Lead with the role you actually want.
 
-You can [grade your resume free](https://ai.rezscore.com/) in seconds; RezScore also includes a Job Matcher that targets your resume to a specific job description.
+Most resumes skip the first point. When we measured [500 real software engineer resumes](/software-engineer-resume-2026/), only about one bullet in eleven carried a result number, and the typical resume had one.
+
+You can [grade your resume free](https://ai.rezscore.com/) in seconds. The report picks one line and asks for the fact it is missing, then rewrites it with you; your first edit is free. RezScore also includes a Job Matcher that targets your resume to a specific job description.
 
 ## What should you do in the next 90 days?
 

@@ -249,7 +249,7 @@ The sign: "spearheaded," "revolutionized," "single-handedly," "drove," or a perc
 
 ## Let Jen do the first one with you
 
-Upload your resume to the [free resume grader](https://ai.rezscore.com/) and the report will call out the weakest line on the page and why it is weak. Ask Jen to rewrite it. She works only from what is already in your document, shows you the before and the after side by side, and you decide whether it goes in. Your first edit is free. If you want to work through the rest of the page with her, [plans are here](https://ai.rezscore.com/pro/).
+Upload your resume to the [free resume grader](https://ai.rezscore.com/). The report picks one line from your resume and asks you one question about it. Answer with a fact you know is true and it rewrites the line using only your resume and your answer. You see the before and the after side by side and decide whether it goes in. Your first edit is free. If you want to work through the rest of the page with her, [plans are here](https://ai.rezscore.com/pro/).
 
 ## Questions people ask
 

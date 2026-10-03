@@ -4,6 +4,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [Software engineer resume tips for 2026: what 500 real resumes get wrong](https://blog.rezscore.com/software-engineer-resume-2026/) &middot; [source](content/software-engineer-resume-2026.md)
 - [The complete list of college majors, by field (2026)](https://blog.rezscore.com/list-of-college-majors/) &middot; [source](content/list-of-college-majors.md)
 - [Weak resume bullets, rewritten: before and after examples](https://blog.rezscore.com/resume-bullet-points-before-and-after/) &middot; [source](content/resume-bullet-points-before-and-after.md)
 - [The new RezScore workspace: your resume, its report, and Jen on one screen](https://blog.rezscore.com/new-rezscore-workspace/) &middot; [source](content/new-rezscore-workspace.md)
