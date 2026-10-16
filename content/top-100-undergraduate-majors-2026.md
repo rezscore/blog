@@ -5,7 +5,7 @@ date: 2026-06-17
 updated: 2026-07-23
 author: "RezScore"
 tags: [college, majors, data]
-description: "We ranked the top college majors for 2026 using 1.17 million real resumes, with salary data, trends, and the full top 100 list."
+description: "We ranked the top college majors for 2026 using over a million real resumes, with salary data, trends, and the full top 100 list."
 image: /static/blog/images/top-100-undergraduate-majors-2026/social-card-v3.png
 image_alt: "Top 100 College Majors ranked for 2026, illustrated with graduation cap, books, and data trends"
 image_width: 1200
@@ -16,7 +16,7 @@ featured: true
 draft: false
 ---
 
-*We ranked the top college majors for 2026 using 1.17 million real resumes. The most interesting thing isn't the ranking. It's the trend underneath it.*
+*We ranked the top college majors for 2026 using over a million real resumes. The most interesting thing isn't the ranking. It's the trend underneath it.*
 
 <div id="majors-scatter" class="majors-widget">
 <noscript><img src="/static/blog/charts/top-majors-2026/salary_vs_share.png" alt="Popularity versus pay scatter of undergraduate majors"></noscript>
@@ -28,7 +28,7 @@ draft: false
 
 Every year, people ask us the same question: which college major actually pays off? And every year there's a fresh round of takes about it, most of them based on surveys of a few thousand graduates who were asked to remember what they studied.
 
-We do it differently. We read the resumes. This year we pulled 1.17 million of them, took the major off each one, and counted. Same method we have used for years, which means we can do something a survey can't: watch the same population shift, year by year.
+We do it differently. We read the resumes. This year we pulled over a million of them, took the major off each one, and counted. Same method we have used for years, which means we can do something a survey can't: watch the same population shift, year by year.
 
 And one shift jumps off the page.
 
@@ -59,7 +59,7 @@ Curious how much has changed? You can compare this against our [Top 100 College 
 
 ## The full top 100 college majors
 
-You came here to find your major, so here are all 100. Popularity is the major's slice of the 1.17 million we counted. Salary is the median wage for the career that major most commonly leads to, from the U.S. Bureau of Labor Statistics. The trend arrow blends the direction in our own data with the national degree numbers from the Department of Education, so it reflects whether a field is genuinely growing or cooling, not just one year of noise.
+You came here to find your major, so here are all 100. Popularity is the major's slice of all the resumes we counted. Salary is the median wage for the career that major most commonly leads to, from the U.S. Bureau of Labor Statistics. The trend arrow blends the direction in our own data with the national degree numbers from the Department of Education, so it reflects whether a field is genuinely growing or cooling, not just one year of noise.
 
 <table class="majors-table">
 <thead><tr><th>#</th><th>Trend</th><th>Major</th><th>Popularity</th><th>Median Salary</th></tr></thead>
@@ -174,7 +174,7 @@ The ranking tells you what's popular. This tells you the trade. Computer Science
 
 ## How we did it, and where we might be wrong
 
-The popularity numbers are ours: 1.17 million US resumes, with anything marked private at upload left out. The salary figures come from the U.S. Bureau of Labor Statistics, matched to the career each major most often leads to, because honest salary data needs a bigger, cleaner sample than self-reported numbers can give.
+The popularity numbers are ours: over a million US resumes, with anything marked private at upload left out. The salary figures come from the U.S. Bureau of Labor Statistics, matched to the career each major most often leads to, because honest salary data needs a bigger, cleaner sample than self-reported numbers can give.
 
 A few honest caveats:
 
@@ -189,7 +189,7 @@ If you want to check our work or argue with it, the data and the code are public
 
 ## Your major is not your resume
 
-Here's what 1.17 million resumes make obvious: **your major matters a lot less than what you did with it.** We rank majors because you asked, and because it's fun, but the resumes that win interviews aren't the ones with the "right" major. They're the ones that turn whatever you studied into evidence of impact.
+Here's what over a million resumes make obvious: **your major matters a lot less than what you did with it.** We rank majors because you asked, and because it's fun, but the resumes that win interviews aren't the ones with the "right" major. They're the ones that turn whatever you studied into evidence of impact.
 
 That's the part we can help with.
 
@@ -201,4 +201,4 @@ Upload it, and in about ten seconds we'll show you where it's strong, where it's
 
 ---
 
-*Popularity from 1.17 million resumes uploaded to RezScore (US, privacy opt-outs removed). Salary from the U.S. Bureau of Labor Statistics, May 2024. Run the analysis yourself: [github.com/rezscore/top-majors-2026](https://github.com/rezscore/top-majors-2026).*
+*Popularity from over a million resumes uploaded to RezScore (US, privacy opt-outs removed). Salary from the U.S. Bureau of Labor Statistics, May 2024. Run the analysis yourself: [github.com/rezscore/top-majors-2026](https://github.com/rezscore/top-majors-2026).*

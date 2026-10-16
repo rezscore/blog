@@ -4,12 +4,12 @@ slug: top-100-undergraduate-majors-2019
 date: 2019-08-31
 author: "RezScore"
 tags: [college, majors, data]
-description: "Historical 2019 ranking of the top 100 college majors by popularity and median salary. For the current ranking, see our 2026 analysis built from 1.17 million resumes."
+description: "Historical 2019 ranking of the top 100 college majors by popularity and median salary. For the current ranking, see our 2026 analysis built from over a million resumes."
 image: /static/blog/images/top-100-undergraduate-majors-2019/1_uxwlb_67M4bv3xDFk343Kw.png
 draft: false
 ---
 
-> **Looking for the latest?** We re-ran this analysis on 1.17 million resumes for 2026, with an interactive chart and updated salaries. **[See the Top 100 College Majors for 2026](/top-100-undergraduate-majors-2026/)**
+> **Looking for the latest?** We re-ran this analysis on over a million resumes for 2026, with an interactive chart and updated salaries. **[See the Top 100 College Majors for 2026](/top-100-undergraduate-majors-2026/)**
 
 We’re celebrating back to school by releasing some stats on college majors in 2019. We’ll start by delving into the top 20 before we present the full top 100. For all majors, we also include salary data for the median salary after a median number of years experience.
 

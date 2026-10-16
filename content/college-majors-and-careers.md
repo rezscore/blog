@@ -191,7 +191,7 @@ For early-career hiring, the major mostly determines which doors you approach. W
 - **Geography and flexibility.** Markets differ sharply by city and by willingness to relocate.
 - **The resume itself.** Screening is fast and unforgiving; a strong record presented badly performs like a weak record.
 
-Our own analysis of 1.17 million resumes for the [2026 majors ranking](https://blog.rezscore.com/top-100-undergraduate-majors-2026/) shows how differently the same degree can present depending on the evidence around it.
+Our own analysis of over a million resumes for the [2026 majors ranking](https://blog.rezscore.com/top-100-undergraduate-majors-2026/) shows how differently the same degree can present depending on the evidence around it.
 
 ## How do you turn coursework into resume evidence?
 
