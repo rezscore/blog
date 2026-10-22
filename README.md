@@ -61,6 +61,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [The day we walled off our old PHP server](https://blog.rezscore.com/dev/dev-the-day-we-walled-off-our-old-php-server/) &middot; [source](content/dev-the-day-we-walled-off-our-old-php-server.md)
 - [One bounced copy froze our email for six days](https://blog.rezscore.com/dev/dev-one-bounced-copy-froze-our-email/) &middot; [source](content/dev-one-bounced-copy-froze-our-email.md)
 - [The workspace shipped. The numbers needed more work.](https://blog.rezscore.com/dev/dev-the-workspace-shipped-the-numbers-needed-more-work/) &middot; [source](content/dev-the-workspace-shipped-the-numbers-needed-more-work.md)
 - [We ran six homepage A/B tests. Almost nothing moved.](https://blog.rezscore.com/dev/dev-six-homepage-ab-tests-almost-nothing-moved/) &middot; [source](content/dev-six-homepage-ab-tests-almost-nothing-moved.md)
