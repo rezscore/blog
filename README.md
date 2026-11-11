@@ -4,6 +4,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Posts
 
+- [Job Matcher: stop applying into the void](https://blog.rezscore.com/job-matching-find-and-tailor/) &middot; [source](content/job-matching-find-and-tailor.md)
 - [RezScore Spotlight: we introduce job seekers to recruiters on LinkedIn](https://blog.rezscore.com/rezscore-spotlight/) &middot; [source](content/rezscore-spotlight.md)
 - [Software engineer resume tips for 2026: what 500 real resumes get wrong](https://blog.rezscore.com/software-engineer-resume-2026/) &middot; [source](content/software-engineer-resume-2026.md)
 - [The complete list of college majors, by field (2026)](https://blog.rezscore.com/list-of-college-majors/) &middot; [source](content/list-of-college-majors.md)
