@@ -62,6 +62,8 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [The bug hiding in "yes, please"](https://blog.rezscore.com/dev/dev-the-bug-hiding-in-yes-please/) &middot; [source](content/dev-the-bug-hiding-in-yes-please.md)
+- [The chatbot kept talking after the API balance hit zero](https://blog.rezscore.com/dev/dev-the-chatbot-kept-talking-after-the-api-balance-hit-zero/) &middot; [source](content/dev-the-chatbot-kept-talking-after-the-api-balance-hit-zero.md)
 - [The day we walled off our old PHP server](https://blog.rezscore.com/dev/dev-the-day-we-walled-off-our-old-php-server/) &middot; [source](content/dev-the-day-we-walled-off-our-old-php-server.md)
 - [One bounced copy froze our email for six days](https://blog.rezscore.com/dev/dev-one-bounced-copy-froze-our-email/) &middot; [source](content/dev-one-bounced-copy-froze-our-email.md)
 - [The workspace shipped. The numbers needed more work.](https://blog.rezscore.com/dev/dev-the-workspace-shipped-the-numbers-needed-more-work/) &middot; [source](content/dev-the-workspace-shipped-the-numbers-needed-more-work.md)
