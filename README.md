@@ -62,6 +62,7 @@ The full source of [blog.rezscore.com](https://blog.rezscore.com/). Every post i
 
 ## Dev log (building in public)
 
+- [The rewrite in your inbox has to exist in the app](https://blog.rezscore.com/dev/dev-the-rewrite-in-your-inbox/) &middot; [source](content/dev-the-rewrite-in-your-inbox.md)
 - [The bug hiding in "yes, please"](https://blog.rezscore.com/dev/dev-the-bug-hiding-in-yes-please/) &middot; [source](content/dev-the-bug-hiding-in-yes-please.md)
 - [The chatbot kept talking after the API balance hit zero](https://blog.rezscore.com/dev/dev-the-chatbot-kept-talking-after-the-api-balance-hit-zero/) &middot; [source](content/dev-the-chatbot-kept-talking-after-the-api-balance-hit-zero.md)
 - [The day we walled off our old PHP server](https://blog.rezscore.com/dev/dev-the-day-we-walled-off-our-old-php-server/) &middot; [source](content/dev-the-day-we-walled-off-our-old-php-server.md)
